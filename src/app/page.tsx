@@ -12,9 +12,6 @@ export default function Home() {
             className="block rounded-xl p-6 bg-white/80 dark:bg-neutral-900/80 shadow-sm hover:shadow-md transition"
           >
             <h2 className="text-xl font-semibold mb-2">{g.nombre}</h2>
-            <p className="text-sm text-neutral-600 dark:text-neutral-400">
-              {g.descripcion}
-            </p>
           </Link>
         ))}
       </div>

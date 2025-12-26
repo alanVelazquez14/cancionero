@@ -29,10 +29,6 @@ export default async function GeneroPage({ params }: Props) {
         {generoData.nombre}
       </h1>
 
-      <p className="text-neutral-600 dark:text-neutral-400 mb-8">
-        {generoData.descripcion}
-      </p>
-
       {canciones.length > 0 ? (
         <div className="space-y-3">
           {canciones.map((c) => (
