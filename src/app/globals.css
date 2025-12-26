@@ -6,3 +6,24 @@
 body {
   font-family: system-ui, sans-serif;
 }
+
+.bg-madera {
+  background-color: #ede6d8;
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(0,0,0,0.03) 1px,
+      transparent 1px
+    );
+  background-size: 40px 40px;
+}
+
+.dark .bg-madera {
+  background-color: #1a1a1a;
+  background-image:
+    linear-gradient(
+      90deg,
+      rgba(255,255,255,0.04) 1px,
+      transparent 1px
+    );
+}
