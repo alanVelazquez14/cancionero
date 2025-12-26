@@ -25,15 +25,15 @@ export default async function DetalleCancionPage({ params }: Props) {
   return (
     <section className="max-w-4xl mx-auto px-4 py-10">
       <header className="mb-8">
-        <h1 className="text-4xl font-bold mb-2">{cancion.title}</h1>
+        <h1 className="text-2xl font-bold mb-2">{cancion.title}</h1>
         {cancion.author && (
-          <p className="text-xl text-neutral-600 dark:text-neutral-400">
+          <p className="text-lg text-neutral-600 dark:text-neutral-400">
             {cancion.author}
           </p>
         )}
       </header>
 
-      <div className="bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800">
+      <div className="bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-2xl border border-neutral-200 dark:border-neutral-800">
         {cancion.letra ? (
           <pre className="whitespace-pre-wrap font-mono text-lg leading-relaxed">
             {cancion.letra}
