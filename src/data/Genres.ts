@@ -4,24 +4,8 @@ export type Genero = {
 };
 
 export const genres: Genero[] = [
-  {
-    slug: "chacarera",
-    nombre: "Chacarera",
-  },
-  {
-    slug: "chamame",
-    nombre: "Chamamé",
-  },
-  {
-    slug: "tonada",
-    nombre: "Tonada",
-  },
-  {
-    slug: "cueca",
-    nombre: "Cueca",
-  },
-  {
-    slug: "gato",
-    nombre: "Gato",
-  },
+  { slug: "chacarera", nombre: "Chacarera" },
+  { slug: "chamame", nombre: "Chamamé" },
+  { slug: "tonada", nombre: "Tonada" },
+  { slug: "zamba", nombre: "Zamba" },
 ];

@@ -4,6 +4,11 @@ import Header from "@/components/Header";
 
 export const metadata: Metadata = {
   title: "Cancionero",
+   icons: {
+    icon: "/icon.webp",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({

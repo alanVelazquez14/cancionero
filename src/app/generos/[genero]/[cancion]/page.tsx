@@ -1,39 +1,49 @@
 import { notFound } from "next/navigation";
-import { chacareras } from "@/data/chacarera";
+import { cancionesPorGenero } from "@/data/canciones";
+import { genres } from "@/data/Genres";
 
 type Props = {
-  params: {
+  params: Promise<{
     genero: string;
     cancion: string;
-  };
+  }>;
 };
 
-export default async function CancionPage({ params }: Props) {
-  const { genero, cancion } = await params;
+export default async function DetalleCancionPage({ params }: Props) {
+  const { genero, cancion: cancionSlug } = await params;
 
-  if (genero !== "chacarera") {
-    notFound();
-  }
+  const generoData = genres.find((g) => g.slug === genero);
 
-  const tema = chacareras.find((c) => c.slug === cancion);
+  const cancionesDelGenero =
+    cancionesPorGenero[genero as keyof typeof cancionesPorGenero];
+  const cancion = cancionesDelGenero?.find((c) => c.slug === cancionSlug);
 
-  if (!tema) {
+  if (!cancion) {
     notFound();
   }
 
   return (
-    <section className="max-w-3xl mx-auto px-4 py-10">
-      <h1 className="text-3xl font-semibold">{tema.title}</h1>
+    <section className="max-w-4xl mx-auto px-4 py-10">
+      <header className="mb-8">
+        <h1 className="text-4xl font-bold mb-2">{cancion.title}</h1>
+        {cancion.author && (
+          <p className="text-xl text-neutral-600 dark:text-neutral-400">
+            {cancion.author}
+          </p>
+        )}
+      </header>
 
-      {tema.author && (
-        <p className="text-neutral-600 dark:text-neutral-400">{tema.author}</p>
-      )}
-
-      {tema.tono && <p className="mt-2 text-sm italic">Tono: {tema.tono}</p>}
-
-      <pre className="mt-8 whitespace-pre-wrap font-mono text-sm bg-white/70 dark:bg-neutral-900/70 p-6 rounded-xl overflow-x-auto">
-        {tema.letra}
-      </pre>
+      <div className="bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-sm border border-neutral-200 dark:border-neutral-800">
+        {cancion.letra ? (
+          <pre className="whitespace-pre-wrap font-mono text-lg leading-relaxed">
+            {cancion.letra}
+          </pre>
+        ) : (
+          <p className="italic text-neutral-500 text-center py-10">
+            La letra de esta canción todavía no ha sido cargada. 🎶
+          </p>
+        )}
+      </div>
     </section>
   );
 }

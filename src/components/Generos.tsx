@@ -5,9 +5,11 @@ type Props = {
 
 export default function GenreCard({ title, description }: Props) {
   return (
-    <div className="rounded-2xl border p-6 shadow-sm hover:shadow-md transition bg-white dark:bg-neutral-800">
-      <h2 className="text-xl font-bold mb-2">{title}</h2>
-      <p className="text-sm text-neutral-600 dark:text-neutral-300">
+    <div className="card-style p-6 hover:border-zinc-700 dark:hover:bg-zinc-800/50 group">
+      <h2 className="text-xl font-bold tracking-tight dark:text-zinc-100 group-hover:text-indigo-400 transition-colors">
+        {title}
+      </h2>
+      <p className="text-sm dark:text-zinc-400 mt-1">
         {description}
       </p>
     </div>

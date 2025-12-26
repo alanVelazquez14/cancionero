@@ -1,29 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  :root {
+    --bg-main: #ede6d8; 
+    --bg-card: #ffffff;
+    --text-main: #18181b; 
+    --text-muted: #52525b;
+    --border-color: rgba(0, 0, 0, 0.08);
+  }
 
-body {
-  font-family: system-ui, sans-serif;
+  .dark {
+    /* Un negro azulado/grisáceo es mucho mejor que el negro puro */
+    --bg-main: #09090b; 
+    --bg-card: #18181b; 
+    --text-main: #f4f4f5; 
+    --text-muted: #a1a1aa;
+    --border-color: rgba(255, 255, 255, 0.1);
+  }
+
+  body {
+    font-family: 'ABeeZee', system-ui, sans-serif;
+    @apply bg-[var(--bg-main)] text-[var(--text-main)] transition-colors duration-300;
+  }
+
+  /* Esto hará que todas tus tarjetas cambien solas */
+  .card-style {
+    @apply bg-[var(--bg-card)] border border-[var(--border-color)] rounded-2xl shadow-sm transition-all;
+  }
 }
 
-.bg-madera {
-  background-color: #ede6d8;
-  background-image:
-    linear-gradient(
-      90deg,
-      rgba(0,0,0,0.03) 1px,
-      transparent 1px
-    );
-  background-size: 40px 40px;
-}
 
-.dark .bg-madera {
-  background-color: #1a1a1a;
-  background-image:
-    linear-gradient(
+  h1, h2, h3, h4 {
+    @apply text-[var(--text-main)] font-bold tracking-tight;
+  }
+
+  /* Párrafos y descripciones automáticas */
+  p, span {
+    @apply text-[var(--text-muted)];
+  }
+
+  /* Enlaces o textos destacados */
+  strong {
+    @apply text-[var(--text-main)] font-semibold;
+  }
+
+
+@layer components {
+  .bg-madera {
+    background-color: var(--bg-main);
+    background-image: linear-gradient(
       90deg,
-      rgba(255,255,255,0.04) 1px,
+      var(--border-color) 1px,
       transparent 1px
     );
+    background-size: 40px 40px;
+  }
 }
