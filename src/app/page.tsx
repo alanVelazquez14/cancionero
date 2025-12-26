@@ -9,7 +9,7 @@ export default function Home() {
           <Link
             key={g.slug}
             href={`/generos/${g.slug}`}
-            className="block rounded-xl p-6 bg-white/80 dark:bg-neutral-900/80 shadow-sm hover:shadow-md transition"
+            className="block rounded-xl p-6 bg-white/80 dark:bg-neutral-900/80 shadow-2xl hover:shadow-md transition"
           >
             <h2 className="text-xl font-semibold mb-2">{g.nombre}</h2>
           </Link>

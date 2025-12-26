@@ -40,7 +40,7 @@ export default async function DetalleCancionPage({ params }: Props) {
           </pre>
         ) : (
           <p className="italic text-neutral-500 text-center py-10">
-            La letra de esta canción todavía no ha sido cargada. 🎶
+            La letra de esta canción todavía no ha sido cargada.
           </p>
         )}
       </div>

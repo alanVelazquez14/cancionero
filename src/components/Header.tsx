@@ -41,7 +41,7 @@ export default function Header() {
 
           {isHome && (
             <h1 className="text-lg sm:text-xl font-bold tracking-tight bg-gradient-to-r from-zinc-900 to-zinc-600 dark:from-zinc-100 dark:to-zinc-400 bg-clip-text text-transparent">
-              Cancionero Folclórico
+              Cancionero <span className="text-[#fa1818]">Folclórico</span>
             </h1>
           )}
         </div>
