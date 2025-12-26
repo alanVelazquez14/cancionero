@@ -1,23 +1,23 @@
-import Generos from "@/components/Generos";
-
-const genres = [
-  { title: "Chacarera", description: "Ritmo santiagueño para el zapateo" },
-  { title: "Chamamé", description: "Música del litoral y el acordeón" },
-  { title: "Tonada", description: "Canto cuyano, lento y profundo" },
-  { title: "Cueca", description: "Baile cuyano de pañuelo" },
-  { title: "Gato", description: "Folklore alegre y picaresco" },
-];
+import { genres } from "@/data/Genres";
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="max-w-5xl mx-auto p-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-      {genres.map((g) => (
-        <Generos
-          key={g.title}
-          title={g.title}
-          description={g.description}
-        />
-      ))}
-    </main>
+    <section className="max-w-6xl mx-auto px-4 py-10">
+      <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        {genres.map((g) => (
+          <Link
+            key={g.slug}
+            href={`/generos/${g.slug}`}
+            className="block rounded-xl p-6 bg-white/80 dark:bg-neutral-900/80 shadow-sm hover:shadow-md transition"
+          >
+            <h2 className="text-xl font-semibold mb-2">{g.nombre}</h2>
+            <p className="text-sm text-neutral-600 dark:text-neutral-400">
+              {g.descripcion}
+            </p>
+          </Link>
+        ))}
+      </div>
+    </section>
   );
 }
