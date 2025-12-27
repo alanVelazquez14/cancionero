@@ -1268,4 +1268,79 @@ No estaba hecha de flores
 De algún rencor hiciste |bis
 La miel de tus amores   |bis`,
   },
+  {
+    title: "La Sachapera",
+    slug: "la-sachapera",
+    author: "Peteco Carabajal",
+    letra: `
+   DO
+Churita mi buena moza
+         MI7        LAm
+balanceando la pollera
+   RE7               SOL
+bailando es la más donosa
+      RE7         SOL
+morenita santiagueña.
+    FA           DO
+Con la chacarera doble
+         SOL7        DO
+se curan todas las penas.
+
+Dulce fruto de mis pagos
+criollita sabagastera
+boquita de arrope y tuna
+juguito de sachapera.
+Con la chacarera doble
+se curan todas las penas.
+
+Da gusto andar por los montes
+cuando la noche despierta
+besando los algarrobos
+con su llovizna de estrellas.
+Con la chacarera doble
+se curan todas las penas.
+
+ESTRIBILLO:
+
+En Santiago del Estero
+la Salamanca me espera
+y el sonko dejarte quiero
+para cantarle a mi tierra.
+Con la chacarera doble
+se curan todas las penas.
+
+
+II
+
+Bienhaiga mi buena moza
+has encendido una hoguera
+con el fuego de tus ojos
+es mi amor leñita seca.
+Con la chacarera doble
+se curan todas las penas.
+
+Pal' tiempo de la arropiada
+hay una luna hechicera
+que en medio de las vidalas
+cantando coplas se queda.
+Con la chacarera doble
+se curan todas las penas.
+
+Con harina de algarroba
+voy a endulzar las tristesas
+que por andar en amores
+mevan siguiendo de cerca.
+Con la chacarera doble
+se curan todas las penas.
+
+ESTRIBILLO:
+
+En Santiago del Estero
+la Salamanca me espera
+y el sonko dejarte quiero
+para cantarle a mi tierra.
+Con la chacarera doble
+se curan todas las penas.
+`,
+  },
 ];

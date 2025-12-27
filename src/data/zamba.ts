@@ -810,4 +810,40 @@ A mi Tucumán querido
      E7             Am
 Cantaré cantaré cantaré`,
   },
+  {
+    title: "Aroma de mandarinas",
+    slug: "aroma-de-mandarinas",
+    author: "Horacio Guarany",
+    letra: `
+    LAm           FA          SOL          DO
+Aroma de mandarinas en la siesta tucumana
+LA7                REm        FA       (SI7) MI7
+Un pacará le hace sombra a la zamba enamorada,
+MI7          FA            (REm)( DO )( MI7 ) LAm
+Enamorada de vos, de ver como la bailabas
+
+¡Ay! callejón de la zafra que me llevó a dónde estabas
+Allá en el patio gallero de don Máximo Peñalba
+Un bandoneón simoqueño y la zamba enamorada
+
+
+ESTRIBILLO
+
+SOL7            DO       LA7              REm
+A La Florida volví a buscarte y ya no estabas
+FA                     REm         FA       (SI7) MI7
+Ni el bandoneón de Don Pancho ni la zamba enamorada
+MI7                 FA           (REm)( DO )( MI7 ) LAm
+Caliente viento del norte que te arranco de mi alma
+
+
+Ingenio de La Florida trapiches moliendo caña
+Con el pañuelo en el aire tu mirada y mi mirada
+Del jugo se hace la miel de la zamba enamorada
+
+Camino del Cochuchal como un potro yo avanzaba
+Me llevaba tu recuerdo y la zamba enamorada
+Color de tus labios fue lapacho de flor morada
+`,
+  },
 ];
