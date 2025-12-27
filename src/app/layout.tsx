@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="es" suppressHydrationWarning>
       <body className="min-h-screen flex flex-col bg-neutral-50 dark:bg-neutral-950">
         <Header />
-        <main className="flex-1">{children}</main>
+        <main>{children}</main>
         <Footer />
       </body>
     </html>
