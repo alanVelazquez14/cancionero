@@ -6,6 +6,7 @@ export type Genero = {
 export const genres: Genero[] = [
   { slug: "chacarera", nombre: "Chacarera" },
   { slug: "chamame", nombre: "Chamamé" },
+  { slug: "gato", nombre: "Gato" },
   { slug: "tonada", nombre: "Tonada" },
   { slug: "zamba", nombre: "Zamba" },
 ];

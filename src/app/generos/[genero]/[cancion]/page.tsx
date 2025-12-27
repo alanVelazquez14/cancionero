@@ -27,7 +27,7 @@ export default async function DetalleCancionPage({ params }: Props) {
       <header className="mb-8">
         <h1 className="text-2xl font-bold mb-2">{cancion.title}</h1>
         {cancion.author && (
-          <p className="text-lg text-neutral-600 dark:text-neutral-400">
+          <p className="text-sm text-neutral-600 dark:text-neutral-400">
             {cancion.author}
           </p>
         )}
@@ -35,7 +35,7 @@ export default async function DetalleCancionPage({ params }: Props) {
 
       <div className="bg-white dark:bg-neutral-900 p-6 rounded-xl shadow-2xl border border-neutral-200 dark:border-neutral-800">
         {cancion.letra ? (
-          <pre className="whitespace-pre-wrap font-mono text-lg leading-relaxed">
+          <pre className="whitespace-pre-wrap font-mono text-sm leading-relaxed">
             {cancion.letra}
           </pre>
         ) : (

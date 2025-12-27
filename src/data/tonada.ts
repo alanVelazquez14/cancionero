@@ -364,4 +364,433 @@ Toda el alma en la tonada.
 Tengo una sed que me ahoga
 No se que diablos me pasa.`,
   },
+  {
+    title: "La tonada jamás morirá",
+    slug: "la-tonada-jamas-morira",
+    author: "Angela Irene",
+    letra: `
+INTRODUCCIÓN: F – C – D – G – C – F x 2
+
+ F               F7      A#
+Hay en cuyo una luna distinta
+             C           C7     F
+color de jazmines, azahar y magnolias
+            Dm                 Gm
+y pasa las noches besando las viñas
+                  C                      F
+que adornan San Juan, a San Luis y a Mendoza.
+
+ESTRIBILLO 1
+ F           F7    A#
+Luna nueva de mi tierra
+                C
+ponchito en la noche
+                 Am
+del criollo labriego,
+      Dm        Gm
+y le dejo mi tonada
+                 C                 F
+a tu luz que es toda la plata que tengo.
+   F            F7    A#
+Nosotros  nos iremos yendo,
+ G7                C7      F
+pero la tonada, jamás morirá.
+
+INTERMEDIO: Como la Introducción.
+
+Hay en Cuyo una luna distinta
+que corre cantando sobre las acequias
+por la serenata con una sonrisa
+igual que una niña que sale de fiesta.
+
+ESTRIBILLO 2
+Luna mía, yo te canto
+con toda la inmensa ternura del alma
+y te dejo enamorada
+la voz de mi tierra que está en mi guitarra.
+Nosotros nos iremos yendo,
+pero la tonada jamás morirá.
+
+INTERMEDIO:
+
+COGOLLO
+
+Al amigo, le  canto el cogollo
+con todo el cariño
+que hay dentro de mi alma
+y le ofrezco mi canto de criollo
+mi sangre, mi vida, guitarra y tonadas.
+
+ESTRIBILLO 3
+Luna mía de mi tierra
+ponchito en las noches
+del criollo labriego,
+y le dejo mi tonada
+a tu luz que es toda la plata que tengo.
+Nosotros  nos iremos yendo,
+pero la tonada, jamás morirá.
+`,
+  },
+  {
+    title: "Mi amor en una tonada",
+    slug: "mi-amor-en-una-tonada",
+    author: "Ernesto Villavicencio",
+    letra: `
+    Cmaj7    A7      Dm7
+Se que me separare
+       Dm7   G7        Cmaj7
+Con el tiempo de esta vida
+Edimm7    A7      Dm7
+De mis amigos queridos
+Am7     D7/9#       G7
+Porque todo se termina
+Fmaj7    Fm7      Em7
+Pero apartarme de ti
+Ebm7     Dm7 #Cdism7 Cmaj7
+Será imposible mi vida.
+Am7                D7
+A vos te di el primer beso
+G7                   C7
+Con vos lloré de alegría
+F7                  Am7/9
+Contigo fue tan distinto
+D7/13                G7
+Todo desde el primer día
+Fmaj7     Fm7      Em7
+No se si podré olvidarte
+ Ebm7     Dm7 #Cdism7 CΔ
+Estando muerto mi vida
+
+Quererse con tanto amor
+Como yo con vos mi cielo
+Vivir uno para el otro
+De día y noche en sueños
+Porque habiendo tanto amor
+No existen dudas ni celos
+
+Decirnos con las miradas
+Cosas que nadie podría
+Sentir tu piel en mi piel
+Tus manos junto a las mías
+Por todo eso que sentimos
+Ni Dios nos separaría.
+
+Nos va ha a separar la muerte,
+Morir juntos no podremos
+Nos seguiremos amando
+Por separados que estemos
+Pero al final del camino
+Se que nos encontraremos
+
+Señora Margot que viva
+Usted que entiende de amor
+Eduardo Fernadez pidió
+Que en un verso la nombrara
+Y que en su nombre cantara
+Mi amor en una tonada.`,
+  },
+  {
+    title: "Catador Enólogo",
+    slug: "catador-enologo",
+    author: "Jorge Daniel Rey",
+    letra: `
+    INTRO: E F#m B7 X3
+
+E                         F#m
+Anoche soñaba que me iba a Mendoza
+               B7                 E
+en busca de novia con todas mis cosas.(BIS)
+
+E                               F#m
+Hasta cuerdas nuevas te puse guitarra
+            F#7            B7
+y cargué con vino de uvita mi bota.
+E                               F#m
+Hasta cuerdas nuevas te puse guitarra
+           B7                 E
+y cargué con vino de uvita mi bota.
+
+      E                     F#m
+Siguiendo mi viaje, al lao de mi asiento
+           B7              E
+una buena moza me tenía inquieto.
+           E                     F#m
+Me dijo ser dueña de muchas bodegas,
+              F#7                   B7
+y ahí no mas de novio me puse con ella.
+           E                     F#m
+Me dijo ser dueña de muchas bodegas,
+              B7                    E
+y ahí no mas de novio me puse con ella.
+
+
+          Bm       E        A
+Llegando a Mendoza conocí a su gente
+           F#7               B7
+Cuecas y tonadas me hicieron pariente
+             E                    F#m
+Entre tintos, blancos, rosados, claretes (BIS)
+             B7                     E
+le pedí a mi almohada que no me despierte
+
+INTRO: E F#m B7 X3
+
+
+           E                     F#m
+Y a que se dedica?, preguntó mi suegro,
+           B7              E
+Catador enólogo, futuro ingeniero.(BIS)
+                E                F#m
+Pues está en su casa si gusta quedarse,
+            F#7                  B7
+me vi el preferido de todos sus yernos.
+              E                     F#m
+Pues está en su casa si gusta quedarse,
+              B7              E
+me vi el preferido de todos sus yernos.
+
+             E                     F#m
+La cosa fue linda cuando entré al viñedo,
+            B7              E
+Chupé tanto vino que fundí a los viejos.
+         E                     F#m
+Me quedé sin novia, adiós con mi empleo,
+            F#7          B7
+y casi me matan si no me despierto.
+             E                   F#m
+Me quedé sin novia, adiós con mi empleo,
+           B7               E
+y casi me matan si no me despierto.
+
+           Bm      E          A
+Llegando a Mendoza conocí a su gente
+          F#7                  B7
+Cuecas y tonadas me hicieron pariente
+       E                        F#m
+Entre tintos, blancos, rosados, claretes
+            B7                       E
+le pedí a mi almohada que no me despierte (BIS)
+`,
+  },
+  {
+    title: "San Juan por mi sangre",
+    slug: "san-juan-por-mi-sangre",
+    author: "Ernesto Villavicencio",
+    letra: `
+    A                                     E7
+CAMINAR POR TUS CALLES,ES TODO LO QUE QUIERO,
+                                    A
+ANDAR DE SERENATA,CON LA LUZ DEL LUCERO,
+                 A7                   D
+SENTIR LA BRISA SUAVE,QUE LA NOCHE ME TRAE,
+               A                  E7
+ANDAR CON MIS AMIGOS,ABRAZAR A MI MADRE.
+                 A                   E7
+VOLVER A LOS LUGARES,DONDE PASÉ MI INFANCIA,
+                                    A
+QUE MI VISTA SE NUBLE, AL MIRAR LA MONTAÑA
+                   A7                    D
+Y AL PASAR POR LA CALLE, DONDE ESTABA MI CASA
+                 A          E7        A
+SENTIR QUE UNA GUITARRA,TOCA UNA TONADA.
+
+ESTRIBILLO
+A             E7
+MI QUERIDO SAN JUAN
+              A
+EL VENTANAL DE CUYO
+            E7
+MI VIDA ESTÁ AÑORANDO
+             A
+ESTAR CERQUITA TUYO
+             D
+CON MIS SERES QUERIDOS
+             A
+ALLÍ QUISIERA ESTAR
+                E7
+DESPUÉS QUE DIOS DECIDA
+                   A
+SAN JUAN, SAN JUAN, SAN JUAN.
+
+(II)
+ANDO EXTRAÑANDO EL ZONDA, SU TIERRA Y POLVADERA
+LOS VALLES Y LAS CUMBRES, MAS BELLOS DE MI TIERRA.
+ANDO EXTRAÑANDO TODO,LO QUE UN TIEMPO FUE MÍO
+NOCHES DE SERENATAS, Y EL SABOR DE TUS VINOS.
+
+QUISIERA VER DE NUEVO,A LOS OJOS DE AQUELLA
+A QUIEN DIJE AL OÍDO,ESPÉRAME QUE VUELVA
+Y A MI POBRE GUITARRA, LA HA EMBARGADO UNA PENA
+SUS CUERDAS SUENAN TRISTES, COMO LLORANDO AUSENCIAS.
+(ESTRIBILLO)
+A             E7
+MI QUERIDO SAN JUAN
+              A
+EL VENTANAL DE CUYO
+            E7
+MI VIDA ESTÁ AÑORANDO
+             A
+ESTAR CERQUITA TUYO
+             D
+CON MIS SERES QUERIDOS
+             A
+ALLÍ QUISIERA ESTAR
+                E7
+DESPUÉS QUE DIOS DECIDA
+                   A
+SAN JUAN, SAN JUAN, SAN JUAN.`,
+  },
+  {
+    title: "Tres novias",
+    slug: "tres-novias",
+    author: "Algarroba.com",
+    letra: `
+    Tres novias tengo señor, de las tres me enamoré
+Una me dio su calor, las otras dos el placer
+No sé cuál es más hermosa, ¿San Luis, San Juan o Mendoza?
+Tres novias tengo señor
+
+A San Juan la conocí cantando bajo un parral
+Una tonada tal vez, con una cueca quizás
+Mientras que Mendoza espiaba, San Luis estaba enojada
+Tres novias tengo señor
+
+Cuando anoche me dormí, a Mendoza la soñé
+Con San Luis me desperté, y luego la vi a San Juan
+Hay compadre que problema, ¿con cuál yo me he de quedar?
+Con las tres me quedaré
+
+Compadre Mario Alaniz ha sido recibidor
+De este cogoyo que usted ha de pagar con honor
+Algarroba es quien le canta; apure el trago señor
+Con las tres me quedaré`,
+  },
+  {
+    title: "Entre Cordoba y Mendoza",
+    slug: "entre-cordoba-y-mendoza",
+    author: "Algarroba.com",
+    letra: `
+    MI                      FA#   SI          MI
+ Me flechó una mendocina con tonada cordobesa
+
+        DO#7  DO#m   FA#m       LAm     SI  MI
+Me flechó una mendocina con tonada cordobesa
+
+LA                                RE#     MI
+ me ha dejado el corazón blandito como manteca
+
+SOL#m                SOLm  F#m7   SI      MI
+me ha dejado el corazón blandito como manteca
+
+                    F#m      LAm      SI7  MI
+ Y yo que soy puntanito arisco pa' las mujeres
+
+LA                                   RE#        MI
+entre Córdoba y Mendoza me ha aprisionado un querer
+
+SOL#m                SOLm  F#m7     SI7         MI
+entre Córdoba y Mendoza me ha aprisionado un querer
+
+
+LA                    LA#m  LAm  MI
+ Donde andará mi vida donde andará?
+
+                   F#m
+me dicen que tiene dueño
+
+         SI      MI
+y yo la sueño nomás
+
+LA     FA#       SI7               SI      MI
+ Para Córdoba y Mendoza mi amor por ella se va.
+
+
+MI ; F#m7 ; SI7 ; MI(x2) ; F#m7 ; SI ; MI ; LA
+
+
+MI                 FA#  F#m7       SI     MI
+ Yo empecé como jugando, ella como si jugara
+
+             DO#m   FA#m         SI   MI
+Yo empecé como jugando, ella como si jugara
+
+    LA                       RE#        MI
+pero ahí cerca me volié y me pegó la tonada
+
+      SOL#m    DO#  FA#m7       SI    MI
+pero ahí cerca me volié y me pegó la tonada
+
+               F#m                LAm    SI  MI
+y ahora me ando golpéando igual que la cordobesa
+
+LA                               LA#m        MI
+ antojado el corazón y el pensamiento entre rejas
+
+  SOL#m    FA#m7                SI           MI
+antojado el corazón y el pensamiento entre rejas
+
+
+LA                   LAm      MI
+ Donde andará mi vida donde andará?
+
+                   F#m
+me dicen que tiene dueño
+
+         SI7    MI
+y yo la sueño nomás
+
+       FA#       SI7               SI        MI
+ Para Córdoba y Mendoza mi amor por ella se va.`,
+  },
+  {
+    title: "Tordo Viejo",
+    slug: "tordo-viejo",
+    author: "Jorge Viñas",
+    letra: `
+    A                 D
+A mis años tropecé
+D                    A
+con unos ojazos pardos
+A                      E
+y lo colgué a San Benito
+E                          A
+pa´ que se hiciera el milagro.
+
+
+Eran ojos orientales
+sombríos y puñaleros
+que me ataron a su boca
+pa´que probara el veneno.
+
+
+A7       D
+Así empezó
+G7       A
+mi padecer
+A                        E
+se me han pegado como abrojo
+E                A
+esos ojos de mujer.
+A                        D
+Por hacerme el tordo viejo
+E                    A
+caí preso de un querer.
+
+Cuando conocí esos ojos
+Me encomendé a la prudencia
+Pero ahora yo los adoro
+Sin medir las consecuencias.
+
+Ojos bellos, hechiceros,
+con que alumbro mi ansiedad,
+pero si se van me dejan
+en horrible oscuridad.
+
+Así empezó
+MI padecer.
+Se han pegado como abrojo
+esos ojos de mujer
+por hacerme el tordo viejo
+caí preso de un querer…`
+  }
 ];
