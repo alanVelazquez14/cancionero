@@ -791,6 +791,45 @@ MI padecer.
 Se han pegado como abrojo
 esos ojos de mujer
 por hacerme el tordo viejo
-caí preso de un querer…`
-  }
+caí preso de un querer…`,
+  },
+  {
+    title: "Algarrobo Sanjuanino",
+    slug: "algarrobo-sanjuanino",
+    author: "Ernesto Villavicencio",
+    letra: `
+    Soy un pedazo de astilla 
+de algarrobo sanjuanino, 
+traigo tierra de caminos 
+salpicada con arcilla, 
+mi savia es la maravilla 
+de un algarrobo paterno, 
+curtido por los inviernos 
+pecho abierto a los embates, 
+que no supieron doblarle 
+los vendavales del tiempo.
+
+Lo cobijaron nevadas 
+y besaron resolanas, 
+la inmensa luna plateada 
+le dio tintes de alborada, 
+por eso en la madrugada 
+cuando aparece el lucero, 
+canta el viento pasajero 
+la canción de la firmeza, 
+sobre al dura corteza 
+del árbol noble y sincero.
+
+((Cogollo))
+Amigo (agregar nombre) que viva 
+hoy le canto mi tonada, 
+forjada de madrugadas 
+cuando la besa el rocío, 
+por eso, amigo querido 
+lo elegí para el cogollo, 
+sabiendo que usted es semilla 
+de madre y de padre criollo, 
+más bien, dicho, que es astilla 
+nacida del algarrobo.`,
+  },
 ];
