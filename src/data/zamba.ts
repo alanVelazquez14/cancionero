@@ -846,4 +846,70 @@ Me llevaba tu recuerdo y la zamba enamorada
 Color de tus labios fue lapacho de flor morada
 `,
   },
+  {
+    title: "Zamba del cantor enamorado",
+    slug: "zamba-del-cantor-enamorado",
+    author: "Hernan Figueroa",
+    letra: `
+       LAm               MI7
+   El viejo rio Cosquín
+                                  LAm / LA7
+   fue testigo quieto de un desengaño
+   REm                   LAm    |
+   que un guitarrero cantor     |
+      SOL     FA      MI7       |
+   sufriera en el arenal        |  BIS
+                          LAm   |
+   cuando se escondía el sol    |
+
+
+
+   LAm                    MI7
+   Cuentan paisanos de allá
+                                    LAm / LA7
+   que un amanecer se escucho su canto.
+   REm                   LAm
+   Que era un lamento de amor     |
+         SOL     FA     MI7       |
+   que del pecho le brotó         | BIS
+                       LAm        |
+   y entre los cerros quedó.      |
+
+
+   Estribillo
+
+   LAm                MI7   LA7
+   Quisiera verte volver...
+                      REm
+   en una tarde de enero
+                MI7         LAm
+   Si vuelves , me encontrarás
+                         MI7
+   en la orilla del Cosquín
+                       LAm/LA7
+   con mi guitarra cantora.
+   REm        MI7        LAm
+   Y en mis labios sentirás
+             SOL   FA   MI7
+   que aun perdura el amor
+                         LAm
+   que me dejaste al partir.
+
+
+
+   Que cosas las del amor
+   si hasta me da pena solo pensarlas
+   cuando comienza a gustar
+   como agua de manantial
+   solo se empieza a alejar.
+
+
+
+   Alguna ves al pasar
+   por el viejo rio en noche estrellada,
+   quizás puedan escuchar
+   las coplas que del cantor
+   nacieran por un dolor`,
+  },
+  
 ];

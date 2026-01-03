@@ -3,14 +3,16 @@ import type { Cancion } from "./chacarera";
 import { chamames } from "./chamame";
 import { gatos } from "./gato";
 import { tonadas } from "./tonada";
+import { valsCriollo } from "./valsCriollo";
 import { zambas } from "./zamba";
 
-export type GeneroSlug = "chacarera" | "chamame" | "gato" | "tonada" | "zamba";
+export type GeneroSlug = "chacarera" | "chamame" | "gato" | "tonada" | "vals-criollo" | "zamba";
 
 export const cancionesPorGenero: Record<GeneroSlug, Cancion[]> = {
   chacarera: chacareras,
   chamame: chamames,
   gato: gatos,
   tonada: tonadas,
+  "vals-criollo": valsCriollo,
   zamba: zambas,
 };

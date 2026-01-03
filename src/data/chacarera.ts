@@ -1343,4 +1343,681 @@ Con la chacarera doble
 se curan todas las penas.
 `,
   },
+  {
+    title: "Recuerdo Salteño",
+    slug: "recuerdo-salteno",
+    author: "Las voces de Orán",
+    letra: `
+    LAm            DO
+Renace con emoción
+   FA         SOL    DO   MI7
+el recuerdo de mi adios
+LAm        MI7     LAm
+nostalgias de mis ríos
+     MI7  LAm     MI7      LAm
+del valle mío, ceibos en flor.
+
+Vibra todo mi ser
+al cantar mi canción
+y al evocar tus cerros
+repica un bombo en mi corazón.
+
+SOL7              DO
+Bajo tu cielo estaré
+SOL7              DO  MI7
+Salta cuna de mi ser
+LAm            MI7  LAm
+como en aquellos tiempos
+        MI7  LAm       MI7    LAm
+cuando era chango quiero volver
+            MI7 LAm       MI7    LAm
+y sentir en el aire aromas de albahacas
+     MI7   LAm
+pa'l carnaval.
+
+
+Las flores de mi jardín
+tan hermosas no son
+como eres tú mi dueña
+dulce salteña de mi ilusión.
+
+Si yo puediera volar
+como el libre zorzal
+y cantar en tu reja
+en una noche primaveral.
+
+Bajo tu cielo estaré
+Salta cuna de mi ser
+como en aquellos tiempos
+cuando era chango quiero volver
+y sentir en el aire aromas de albahacas
+pa'l carnaval.`,
+  },
+  {
+    title: "Aquel tiempo de mi infancia",
+    slug: "aquel-tiempo-de-mi-infancia",
+    author: "Los Manseros Santiagueños",
+    letra: `
+    Am                    Dm               E7               Am
+quiero volver aquel tiempo como quien mira hacia adentro
+bis
+                      Dm              E7            Am
+aquel tiempo de mi infancia de soles y de recuerdos
+bis
+A7                Dm               G               C/G
+achalay que linda vida volver a andar las distancias
+                     Dm/F                 E7              Am
+caminar las calles viejas, sentir sus nuevas fragancias
+
+                     Dm                 E7             Am
+el viejo tren de mi pueblo es la esperanza que andaba
+bis
+A7                  Dm              G          C
+yo era humito de mi gente , humito que se quemaba
+                   Dm/F              E7              Am
+como brazita en el fuego , como cigarrito en charla
+                 Dm           E7            Am
+y de soles y de lunas solito me fui criando
+bis
+A7                 Dm                G          C
+entre medio los cantores, florecido dentro el alma
+                   Dm/F             E7               Am
+primavera que llegaban en capullos y flores blancas
+
+                   Dm             E7                Am
+soy el fruto de la vida de dos ramas que se unieron
+bis
+                     Dm             E7                 Am
+de dos ramas que ala tierra le dieron sus frutos nuevos
+bis
+A7               Dm               G             C
+y en el beso de mi madre subi a cabalgar mi sueño
+                 Dm/F               E7            Am
+en un mundo de ilusiones de musica y canto lleno
+                         Dm             E7
+quise volverme en la noche soy tucu tucu y cigarra
+bis
+A7                 Dm           G            C
+un corazon de vidala quise ser parche de caja
+                  Dm/F             E7             Am
+para que alegre mis penas en dias o noches largas
+                 Dm             E7          Am
+y de soles y de lunas solito me fui criando
+bis
+A7                     Dm             G              C
+santiago  vuelvo a tu lado, quiero secar hoy mi llanto
+                    Dm/F                   E7       Am
+dame la magia y la suerte, quiero ser de nuevo chango.`,
+  },
+  {
+    title: "Sombra enamorada",
+    slug: "sombra-enamorada",
+    author: "Los Manseros Santiagueños",
+    letra: `
+     Em
+Si la vida es un momento
+     E7          Am
+así como llega pasa
+  D
+solo el amor con su magia
+                         G
+detiene el rumbo del tiempo
+    C
+le pone trino al silencio
+           B7          Em
+y a la piedra la hace agua
+
+
+Si el otoño es un lamento
+llorando flores dormidas
+si las hojas son heridas
+que se le escapan al viento
+para qué ser lejanía
+pudiendo ser un encuentro
+
+
+Si la luna es un espejo
+donde la noche se mira
+como si fuera un fantasma
+clamando por ser el día
+dejame encender el sueño
+de tu propia fantasía
+
+
+Estribillo:
+Saca tu sombra de adentro
+ponele grillos al alma
+tapame con los colores
+de tu sombra enamorada
+que la vida sin amor
+es como un eco en la nada
+
+
+Para qué mirar de lejos
+lo que muy cerca tenemos
+si el ave que busca el cielo
+jamás alcanza su anhelo
+más vale ser leña ardiendo
+llamita de un sentimiento
+
+
+Para qué seguir la huella
+que se pierde en el olvido
+si la huella es uno mismo
+cuando florece el cariño
+cuando se escapan del alma
+los duendes amanecidos
+
+
+Por eso dejá que cante
+la guitarra del camino
+por eso dejá que suenen
+las coplas que van conmigo
+porque al sonar de mis coplas
+encontrará tu destino
+
+Saca tu sombra de adentro
+ponele grillos al alma
+tapame con los colores
+de tu sombra enamorada
+que la vida sin amor
+es como un eco en la nada`,
+  },
+  {
+    title: "Pongale por las hileras",
+    slug: "pongale-por-las-hileras",
+    author: "Felix Dardo Palorma",
+    letra: `
+    MI                 SI7
+PARA EL TIEMPO DE COSECHA
+                  MI      ]BIS
+QUE LINDO SE PONE EL PAGO
+MI                SI7
+HAY UN BRILLO DE CHAPECAS
+               MI         ]BIS
+EN LOS OJOS DEL PAISANO
+MI                      SI7
+LLENDO Y VINIENDO EN EL CARRO
+                 MI
+DE LA VIÑA A LA BODEGA
+MI                    SI7
+SIEMPRE UN RACIMO DE ENCARGO
+                 MI         ]BIS
+DE LA BLANCA O DE LA NEGRA
+
+ESTRIBILLO
+MI               SI7
+PÓNGALE POR LAS HILERAS
+                  MI
+SIN DEJAR NINGUN RACIMO
+MI                 SI7
+HAY QUE LLENAR LA BODEGA
+                      MI   ]BIS
+YA SE ESTA ACABANDO EL VINO
+
+YA DEJO EL MOZO EL CANASTO
+ELLE DEJA LA TIJERA
+Y ENSALLAN COMO JUGANDO
+UN CUECA EN LAS HILERAS
+
+Y EN LA NOCHE CIELO ABIERTO
+HAY MIL CANTOS LUGAREÑOS
+Y ENTRE COPLAS UN VINITO
+QUE SE LLAMA ESPURGA EL SUEÑO
+
+MI               SI7
+PÓNGALE POR LAS HILERAS
+                  MI
+SIN DEJAR NINGUN RACIMO
+MI                 SI7
+HAY QUE LLENAR LA BODEGA
+                      MI   ]BIS
+YA SE ESTA ACABANDO EL VINO`,
+  },
+  {
+    title: "La revancha",
+    slug: "la-revancha",
+    author: "Los Campedrinos",
+    letra: `
+        A
+No se si te di amor
+   A7             D
+No se si te di confianza
+                    A
+Por eso es que vida mía
+         E           A
+Hoy te pido la revancha
+
+E - A - E - A x4
+
+    A
+Quisiera volverte a ver
+                D
+Tenerte al lado mío
+                   A
+Mirarte fijo a los ojos
+          E        A
+Y que me ayude cupido
+
+E - A - E - A x2
+
+    A
+La luz del amanecer
+                   D
+Me recuerda tu sonrisa
+                  A
+La noche se pone triste
+         E          A
+Si no te tengo de prisa
+
+ESTRIBILLO
+    A
+No se si te di amor
+   A7             D
+No se si te di confianza
+                    A
+Por eso es que vida mía
+         E           A
+Hoy te pido la revancha
+
+E - A - E - A x4
+
+    A
+Que difícil esperar
+               D
+A tener una respuesta
+               A
+Solo dale una señal
+       E           A
+A esta sencilla propuesta
+
+E - A - E - A x2
+
+ A
+Recuerdo verte bailar
+               D
+Tu cabello ondulado
+                    A
+Me voy quedando sin aire
+         E           A
+Si no te siento a mi lado
+
+E - A - E - A x2
+
+    A
+Tal vez no te vuelva a ver
+                     D
+Ni te cruce en estos días
+                  A
+O puede que de una vez
+      E          A
+Se me ilumine la vida
+
+ESTRIBILLO
+    A
+No se si te di amor
+   A7             D
+No se si te di confianza
+                    A
+Por eso es que vida mía
+         E           A
+Hoy te pido la revancha`,
+  },
+  {
+    title: "Sinfonia Silvestre",
+    slug: "sinfonia-silvestre",
+    author: "Los Manseros Santiagueños",
+    letra: `
+    Intro: RE7-SOL-RE7-SOL
+ SOL-FA-DO-SOL-SOL-FA-SOL
+
+SOL
+Me voy con mi guitarra
+   RE7        SOL
+buscando los sonidos
+    DO
+del mágico lugar
+  RE7       SOl
+donde he nacido
+
+SOL-FA-DO-SOL-SOL-FA-SOL
+
+Escucho alas charatas
+soltar su clarinada
+cuando se ve avanzar
+LA madrugada
+
+SOL-FA-DO-SOL-SOL-FA-SOL
+
+Oigo cantar los grillos
+entre los matorrales
+y un cabrito balar
+en los corrales
+
+DO             SOL
+Con cantos y murmullos
+DO          SOL
+haré un sinfonía
+  LAm           DO
+que calme este dolor
+  RE7    SOL
+del alma mía
+
+RE7-SOL-RE7-SOL
+SOL-FA-DO-SOL-SOL-FA-SOL
+
+SOL
+Mugiendo viene un toro
+RE7            SOL
+mostrando su guapesa
+ DO
+y relincha un bagual
+ DO       SOL
+en la represa
+
+SOL-FA-DO-SOL-SOL-FA-SOL
+
+Arrullos de torcaza
+bramar del sacha puma
+lamento de crespín
+en la espesura
+
+SOL-FA-DO-SOL-SOL-FA-SOL
+
+El monte es un concierto
+de trinos y bramidos
+recuerdos del ayer
+que nunca olvido
+
+DO             SOL
+Con cantos y murmullos
+DO          SOL
+haré un sinfonía
+  LAm           DO
+que calme este dolor
+  RE7    SOL
+del alma mía`,
+  },
+  {
+    title: "La pocoy pacha",
+    slug: "la-pocoy-pacha",
+    author: "Duo Coplanacu",
+    letra: `
+           LA             DO
+Con mi poncho y mi guitarra
+        SOL7      DO
+a rodar tierras salí
+     MI7           LA
+y llegao al Pockoy Pacha
+            MI7     LA
+de nuevo al pago volví.
+
+Introducción
+
+Pajkachau en mis antojos
+viejos rumbos tomé al fin
+maduraba el quishcaloro
+la algorraba, el piquillín.
+
+Introducción
+
+Que contento yo me puse
+la represa al divisar
+zambullir a los patitos
+afanosos por pescar.
+
+
+    SOL7
+Una perdiz me silbaba
+                   DO
+del medio del jarillal
+          MI7             LA
+pal' lao' de adentro una chuña
+           MI7        LA
+gritaba en el quebrachal.
+
+
+Introducción
+
+Debajo de un sombra i' toro
+dulce me puse a cantar
+un mate va y otro viene
+mis dichas a recordar.
+
+Introducción
+
+Mi madre se había esmerado
+en cocinar para mi
+empanadas y tamales
+con choclito y con ají.
+
+Introducción
+
+Que lindo es ver en el campo
+los cabritos retozar
+si el corazón en el pecho
+parece zangolotear.
+
+ SOL7
+Una perdiz me silbaba
+                   DO
+del medio del jarillal
+          MI7             LA
+pal' lao' de adentro una chuña
+           MI7        LA
+gritaba en el quebrachal.`,
+  },
+  {
+    title: "Chacarera del olvido",
+    slug: "chacarera-del-olvido",
+    author: "Chaqueño Palavecino",
+    letra: `
+    Am              E7
+Se apagó el querer 
+             Am
+luego la pasión 
+G7               C
+se llenó de olvido 
+E7                 Am
+el montanar del amor. 
+
+Am         E7
+Como imaginar 
+             Am
+que la libertad 
+G7             C
+no tiene sentido 
+E7                  Am
+si a mi lado no estas. 
+
+Am               E7
+Cuando caiga el sol 
+           Am
+al atardecer 
+G7            C
+echaré de menos 
+E7               Am
+el calor de tu piel. 
+
+G7                 C
+Llevaré en mi pecho 
+G7           C
+todo lo vivido 
+Dm               Am
+y aunque con olvido 
+E7                 E7
+hayas pagado mi amor. 
+
+Am            E7
+Intenté olvidar 
+                Am
+todo entre los dos 
+G7            C
+pero no se tapa 
+E7                Am
+con las manos el sol. 
+
+Am        E7
+Late corazón 
+              Am
+no calles tu voz
+G7              C
+largo es el camino
+ E7                  Am
+pa'l que carga un dolor. 
+
+Am             E7
+Sueños de un amor 
+             Am
+vivimos los dos 
+G7                  C
+ya se ha vuelto polvo 
+E7              Am
+dentro del corazón. 
+
+G7                C
+Llevaré en mi pecho 
+G7           C
+todo lo vivido 
+Dm               Am
+y aunque con olvido 
+E7                Am
+hayas pagado mi amor.`,
+  },
+  {
+    title: "Mataco Díaz",
+    slug: "mataco-diaz",
+    author: "Chaqueño Palavecino",
+    letra: `
+    RE                      SOL
+Dicen que allà en Campo Gallo
+          LA                RE
+al Mataco Dìaz lo encontraràn.
+                   SOL
+El hace como el lucero,
+          LA               RE
+nunca se cansa de trasnochar.
+                        SOL
+Dicen que allà en Campo Gallo
+          LA                RE
+al Mataco Diàz lo encontraràn.
+              LA                RE
+De fiesta en fiesta le gusta andar
+           LA              RE
+su paradero es la diversiòn.
+           LA             RE
+Descalzo se pone a zapatear
+          LA              RE
+bailando alegra su corazòn.
+Y si no le falta el vino
+se va a quedar otro rato màs.
+Si una mujer lo quiere enredar
+no dice nunca ni si ni no,
+es desconfiado como el chajà
+                          RE
+para entregarle su corazòn.
+                  SOL
+Tiene por pena el olvido
+           LA             RE
+de una mujer que lo enamorò.
+
+RE - LA x 4 SOL - LA - RE
+
+(sin guitarra)    SOL
+Por andariego se olvida
+          LA            RE
+el Mataco Dìaz de regresar
+y si no vuelve a su rancho
+seguro hay farra en algùn lugar.
+Por andariego se olvida
+el Mataco Dìaz de regresar.
+A que lo inviten no esperarà,
+no va a perder nunca la ocasiòn.
+Desaparece sin avisr
+y vuelve cuando ha salido el sol.
+Y desvelado el camino
+amanecido lo encontrara.
+Para los tiempos del carnaval
+no tiene rumbo ni direcciòn,
+calavereando lo ven por ahì,
+machando penas del corazòn.
+Dicen que allà en Campo Gallo
+al Mataco Dìaz lo encontraràn.`,
+  },
+  {
+    title: "Tormenta de Vino",
+    slug: "tormenta-de-vino",
+    author: "Las voces de Orán",
+    letra: `
+    SOL  lA7  RE  /
+FA#7  SIm     /x2
+
+1°
+SOL
+hoy amaneció nublado
+              LA7      RE
+y al creador le eh pedido
+RE           MI   RE          /
+que tenga en cuenta el milagro
+    FA#           SIm    LA7  /Bis
+de una tormenta de vino
+
+SOL
+que se moje todo el valle
+              LA7      RE
+y el tinto baje del cielo
+RE         MI      RE          /
+que si las calles se inundan
+     FA#           SIm    LA7  /Bis
+yo tengo un dique en el pecho
+
+SOL
+ESTRIBILLO
+ FA#              SIm
+unos lo toman por gusto
+LAm   SI7         MIm
+otros buscando el olvido
+SOL       MIm
+en cambio yo lo disfruto
+SOL         DO#7   FA#
+cuando estoy con los amigos
+SOL       LA7    RE
+nada seria mas justo
+ FA#              SIm
+que una tormenta de vino
+
+2°
+SOL
+si no coinciden conmigo
+              LA7      RE
+en lo que estoy implorando
+RE           MI   RE          /
+entonces suspendo el tinto
+FA#      SIm    LA7           /Bis
+y que llueva vino blanco
+
+SOL
+dios mio si mucho cuesta
+              LA7      RE
+que me den vino las nubes
+RE         MI      RE          /
+si no cae una tormenta
+     FA#           SIm    LA7  /Bis
+que por lo menos garuge
+
+SOL
+ESTRIBILLO
+ FA#              SIm
+unos lo toman por gusto
+LAm   SI7         MIm
+otros buscando el olvido
+SOL       MIm
+en cambio yo lo disfruto
+SOL         DO#7   FA#
+cuando estoy con los amigos
+SOL       LA7    RE
+nada seria mas justo
+ FA#              SIm
+que una tormenta de vino`
+  }
 ];

@@ -1,3 +1,5 @@
+import { title } from "process";
+
 export const tonadas = [
   {
     title: "Sin sol",
@@ -794,7 +796,7 @@ por hacerme el tordo viejo
 caí preso de un querer…`,
   },
   {
-    title: "Algarrobo Sanjuanino",
+    title: "Algarrobo Sanjuanino (sin acordes)",
     slug: "algarrobo-sanjuanino",
     author: "Ernesto Villavicencio",
     letra: `
@@ -831,5 +833,251 @@ sabiendo que usted es semilla
 de madre y de padre criollo, 
 más bien, dicho, que es astilla 
 nacida del algarrobo.`,
+  },
+  {
+    title: "Carta a Cuyano",
+    slug: "carta-a-cuyano",
+    author: "Rally Barrionuevo",
+    letra: `
+LAM7   SIm7      MI        LAM7
+Hace tiempo que quiero escribirle
+      DO#7              FA#m7
+para darle noticias del pago
+        RE          REm7       REbm7     DOm7
+quiero estar con ustéd, conversar como ayer
+      SIm7      MI7        LAM7 
+y que sepa que no lo he olvidado
+
+De mis cosas que puedo contarle
+un destino de canto en el alma
+con paisanos de ley he visto amanecer
+con la magia de la serenata
+
+                   SIm7  MI      LAM7
+Compadre en estas líneas va mi cariño
+             DO#7           FA#m7
+por eso las ensobro en una guitarra
+       RE        REm     LA      FA#m
+si se acuerda de mi, canteme por ahi
+              SIm   MI7       LA 
+discúlpeme la letra vuelvo de farra
+
+He viajado como un barrilete
+remontado a los cielos cuyanos
+con un tiempo de sol, de cantor en cantor
+y un sabor a vendimia en los labios
+
+Le prometo que irë a visitarlo
+a arondar por sus calles de asfalto
+con su luna de cal la ciudad nos verá
+madurando un cogollo en lo alto
+
+Compadre en estas líneas va mi cariño
+por eso las ensobro en una guitarra
+si se acuerda de mi, canteme por ahi
+discúlpeme la letra vuelvo de farra`,
+  },
+  {
+    title: "Deja de llorar paloma",
+    slug: "deja-de-llorar-paloma",
+    author: "José Molina",
+    letra: `
+                  I
+Deja de llorar paloma,         )
+G                D7            ) Bis
+que el llanto no es para vos.  )
+                          G
+Porque soy el que se queda,
+                      D7
+a solas con mi dolor. 
+                  G
+
+          Estribillo
+Tú quieres ser libre y la libertad,
+G                               D7
+mata los tormentos de aquél que se va. 
+                                   G
+Si así lo prefieres dejá de llorar, 
+                    G7          C
+está en evidencia no sabes amar. 
+            G        D7      G
+
+              I (Bis)
+Yo sé que quieres paloma,       )
+librarte de mi querer.          ) Bis 
+Ten cuidado en alzar vuelo, 
+porque te puedes caer. 
+
+          Estribillo
+Tú quieres ser libre y la libertad, 
+mata los tormentos de aquél que se va. 
+Si así lo prefieres dejá de llorar, 
+está en evidencia no sabes amar.
+
+              I (Bis)
+           (Cogollo)
+
+          Estribillo
+Tú quieres ser libre y la libertad, 
+mata los tormentos de aquél que se va. 
+Si así lo prefieres dejá de llorar, 
+está en evidencia no sabes amar. `,
+  },
+  {
+    title: "El que quiere nunca olvida (sin acordes)",
+    slug: "el-que-quiere-nunca-olvida",
+    author: "Ernesto Villavicencio",
+    letra: `
+  LLEVO EN MIS OJOS EL LLANTO
+  AL SABER QUE NO ME QUIERES
+  VOY A PARTIR DE TU LADO
+  MI AMOR DE A POCO SE MUERE
+
+  PORQUE SE QUE YA MAS NADA
+  PODRA ALEGRAR A MI VIDA
+  ES TAN PRODUNDA LA HERIDA
+  LLEVO EL ALMA DESTROZADA
+  AL SABER QUE YA NO ME AMAS
+  QUE YA NO SOS MI QUERIDA
+
+  NO ES CIERTO QUE LA GUITARRA
+  SERA EL MOTIVO MI VIDA
+  PARA QUE YO TE OLVIDARA
+  EL QUE QUIERE NUNCA OLVIDA
+
+  Y YA VES COMO LE PAGAS
+  AL QUIEN LE DIO SU CARIÑO 
+  MIS VERSOS SOLO SON TUYOS
+  COMO LOS TUYOS SON MIOS
+  ENTONCES PORQUE MI VIDA
+  TE HAS ENSAÑADO CONMIGO
+
+      COGOLLO
+  (MAURICIO ANDRADA) VIVA
+  VENGO A OFRECERLE UNA PALMA
+  CON UN ABRAZO DEL ALMA
+  DE UN VERSO DEL CORAZON
+  PORQUE QUIERO VER LA UNION
+  DE LOS MARES Y LOS RIOS
+  LA FLORES CON EL ROCIO
+  A LOS CUYANOS EN CUYO
+  Y QUE USTED SEA MI AMIGO
+  COMO SOY AMIGO SUYO`,
+  },
+  {
+    title: "No le aflojes corazón",
+    slug: "no-le-aflojes-corazon",
+    author: "Ernesto Villavicencio",
+    letra: `
+DO        SOL7                DO 
+ESTA VIDA QUE YO LLEVO APRESURADO
+SOL7
+HOY ME LLEGA A LOS BRAZOS DEL SOCIEGO
+LA 7                           RE m
+AHORA TENGO QUE PENSAR EN OTRO LADO
+SOL 7                              DO 
+ME IRE PRONTO SI NO PONGO EL PIE EN EL FRENO
+DO          SOL7                DO 
+NO ME AFLOJE CORAZON QUE LO PRECISO
+FA 
+JUSTO AHORA QUE ME SALGO DE LA VAINA
+SOL                         DO 
+POR SEGUIR TRAJINANDO SACRIFICIOS
+SOL7
+HOY ME QUEDAN POR CANTAR MUCHAS
+DO 
+TONADAS
+SOL7         DO           LA7
+A LA MUERTE COMPADRE NO CONVIENE
+REm              SOL 
+NI SIQUIERA PROVOCARLA
+FA                          DO 
+Y SI UN DIA DE PRONTO SE APARECE
+SOL7                          DO 
+DIGANLE QUE NO ESTOY Y QUE SE VAYA
+
+DO           SOL7               DO 
+MIS AMIGOS YO LE PIDO QUE COMPRENDAN
+SOL7
+AHORA DEBO COMPORTARME COMO UN SANTO
+LA7                              REm
+ME HE BORRADO DE LA SAL Y LA CERVEZA
+SOL7                             DO 
+DE LOS VINOS LOS JAMONES Y EL TABACO
+ESTRIBILLO
+ERNESTITO NO HACE FALTA QUE LE EXPLIQUE
+LA RAZON DEL COGOLLO EN LA TONADA
+PERO QUIERO QUE ESTA VES LO PLANIFIQUE
+YA QUE VIENE DIFERENTE LA JUGADA
+SOY SU AMIGO Y ANTE TODO LO REAFIRMO
+Y LE PIDO POR FAVOR NO LLENE EL VASO
+PUES ME SOBRA SI ME PAGA ESTE COGOLLO
+CON EL DON DE SU AMISTAD EN UN ABRAZO`,
+  },
+  {
+    title: "Hermano del alma (sin acordes)",
+    slug: "hermano-del-alma",
+    author: "Anselmo Bustos",
+    letra: `
+DESPUES DE UNA LARGA AUSENCIA
+YO QUISIERA REENCONTRARME
+CON LA SANGRE DE MI SANGRE
+LA QUE LLEVAN MIS HERMANOS
+
+SERA EN ESOS DENSOS VERANOS
+QUE UN DIA ENGENDRO MI PADRE
+Y FUE EL VIENTRE DE MI MADRE
+EL QUE ENGENDRO CON CARIÑO
+EL NOVENARIO DE UN NIÑO
+QUE HOY HA QUERIDO INSPIRARME
+
+COMO ESTAS QUERIDO
+TUS COSAS COMO ANDAN
+TE TRAIGO UN COGOLLO 
+HERMANO DEL ALMA
+SI QUIERES GUARDARLO
+NACIO EN MI GUITARRA
+POR MUCHAS CANTORAS
+CRECIO EN MI GARGANTA
+
+QUERIDO HERMANO QUISIERA
+RETROCEDER EN EL TIEMPO
+PARA VIVIR MUY CONTENTO
+MOMENTOS DE NUESTRA INFANCIA
+Y RECORRER LA DISTANCIA
+QUE DEJAN LOS TIEMPOS MIOS
+COMO DOS GRANDES AMIGOS
+PLANEAR UNA TRAVESURA
+Y ACARICIAR CON TERNURA
+ALGUNA NUEVA ESPERANZA
+
+COMO ESTAS HERMANO
+TUS COSAS COMO ANDAN
+TE TRAIGO UN COGOLLO 
+HERMANO DEL ALMA
+SI QUIERES GUARDARLO
+NACIO EN MI GUITARRA
+POR MUCHAS CANTORAS
+CRECIO EN MI GARGANTA
+
+    COGOLLO
+(MARIA ROSALES) SU CORAZON ES MIO
+QUIERO DEJARLE UN COGOLLO 
+EN NOMBRE DE SUS HERMANOS
+NOS ESTRECHAMOS LA MANO
+CON RESPETO Y CON CARIÑO
+NO OLVIDEN QUE FUE NIÑA 
+Y QUE CRECER FUE CONDENA
+AUNQUE OTRA COSA MAS BUENA
+PUEDE OCURRILE A UN CRISTIANO
+
+COMO ESTAS HERMANO
+TUS COSAS COMO ANDAN
+TE TRAIGO UN COGOLLO 
+HERMANO DEL ALMA
+SI QUIERES GUARDARLO
+NACIO EN MI GUITARRA
+POR MUCHAS CANTORAS
+CRECIO EN MI GARGANTA`,
   },
 ];

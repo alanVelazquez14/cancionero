@@ -8,5 +8,6 @@ export const genres: Genero[] = [
   { slug: "chamame", nombre: "Chamamé" },
   { slug: "gato", nombre: "Gato" },
   { slug: "tonada", nombre: "Tonada" },
+  { slug: "vals-criollo", nombre: "Vals Criollo" },
   { slug: "zamba", nombre: "Zamba" },
 ];
