@@ -333,4 +333,159 @@ por que como un loco, la sigo queriendo
         F
 la sigo queriendo...`,
   },
+  {
+    title: "Como te va mi amor",
+    slug: "como-te-va-mi-amor",
+    author: "Angelo Aranda",
+    letra: `
+    INTRODUCCIÓN: D B7 Em C G C G
+
+G                     D
+Que sorpresas da la vida
+B7                   Em
+encontrarte en plena calle
+Dm7                           C
+fue una chispa en mi equilibrio
+D                  G
+dinamita que estalló.
+
+G                        D
+Te encontré un poco más flaca
+B7                     Em
+fue mirarte y derrumbarme
+Dm7              C
+te creí asunto olvidado
+D                 G
+otra vez me equivoqué.
+
+
+   C          D
+Cómo te va mi amor
+         Em  
+Cómo te va
+          C
+era el silencio
+        D              G
+la pregunta entre tu y yo.
+
+C             D
+Eres feliz mi bien
+        Em  
+sin engañar
+              C
+porque a mi puerta
+     D            G
+el amor nunca volvió
+
+
+INTRODUCCIÓN
+
+
+G                        D
+Fue el encuentro tan pequeño
+B7                  Em
+que no pude sincerarme
+Dm7                C
+y decirte te extrañado
+D                G
+como nunca imagine.
+
+G                      D
+Desde entonces como  espuma
+B7                      Em
+crece un miedo a quedar solo
+Dm7                      C
+porque no he encontrado a alguien 
+D                      G
+que me llene igual que tu.
+
+
+C                D
+Cómo te va mi amor
+         Em
+Cómo te va
+             C
+era el silencio
+        D              G
+la pregunta entre tu y yo.
+
+C               D
+Eres feliz mi bien
+        Em  
+sin engañar
+              C
+porque a mi puerta
+     D            G
+el amor nunca volviò
+
+G                          C
+Porque el tiempo ha sido aliado
+      D            G
+madurando este querer
+      Em        C
+no debimos separarnos
+       D                Em  D
+fue un error, ahora lo sé
+
+          C        D
+Cómo te va mi amor
+         C     D    G
+Cómo te va....`
+  },
+  {
+    title: "Yo no te merezco amor",
+    slug: "yo-no-te-merezco-amor",
+    author: "Christian Herrera",
+    letra: `
+    Intro: D A Bm G Em A D A Bm G Em A
+
+                D
+Quizás no sepa amarte
+                 A
+quizás sea cobardía y nada mas
+              Bm
+me cuesta acompañarte
+                G              A
+estoy llorando por que tu te vas
+
+
+                 D
+Que haré para enfrentarlo
+                 A
+me estorba el pensamiento si no estas
+                  Bm
+pero al final de cuentas
+                 G              A
+no se ni lo que quiero de verdad
+
+
+            D
+Yo no te merezco amor
+             A
+ya perdí la cuenta
+              Bm
+por andar de gira el corazón
+              G             A
+un montón de errores cometió   X2
+
+
+                     D
+Tendré que hacer un cambio
+                A
+no puedo andar así desparramau
+                Bm
+el tiempo no perdona
+          G         A
+solo quedare abandonau
+
+
+            D
+Yo no te merezco amor
+             A
+ya perdí la cuenta
+              Bm
+por andar de gira el corazón
+              G             A
+un montón de errores cometió   X2`
+  }
 ];

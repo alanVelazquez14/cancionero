@@ -2087,4 +2087,1509 @@ Pero mientras el hombre
 se asombre, llore o ría
 será la fantasía que Dios creó.`,
   },
+  {
+    title: "Canto a monte quemado",
+    slug: "canto-a-monte-quemado",
+    author: "Los Manseros Santiagueños",
+    letra: `
+    MIm
+Espesura de los montes,
+                 RE
+canto del ave salvaje,
+
+mensaje de amor y tiempo,
+      SI7           MIm
+en el árbol y el plumaje
+
+
+Rumor del silencio herido,
+por el canto de algún hacha,
+o el silbo de algún peoncito,
+que va volviendo a la casa
+
+
+ESTRIBILLO
+MIm               RE
+Noche llena de misterio,
+                     DO
+calladas aves que vuelan,
+                   SI7
+remontando a la distancia,
+                    MIm
+sus sueños hecho tinieblas
+
+
+Mirada del hombre simple,
+temeroso y tan sufrido,
+que habla con ruda nostalgia,
+de las cosas que ha perdido
+
+
+Monte quemado que esperas,
+una bendición de Dios,
+árbol, pájaro y camino, tierra,
+noche, canto y sol
+
+
+SEGUNDA PARTE
+
+Monte espeso monte virgen,
+tan lejano y olvidado,
+andando nomas distancias,
+pago de Monte Quemado
+
+
+Rastros que ondulan la siesta,
+dibujándose en la tierra,
+amor que flota en el aire,
+mezclado con las tristezas
+
+
+ESTRIBILLO
+Noche llena de misterio,
+calladas aves que vuelan,
+remontando a la distancia,
+sus sueños hecho tinieblas
+
+
+Mirada del hombre simple,
+temeroso y tan sufrido,
+que habla con ruda nostalgia,
+de las cosas que ha perdido`,
+  },
+  {
+    title: "La sin corazón",
+    slug: "la-sin-corazon",
+    author: "Chanqueño Palavecino",
+    letra: `
+    INTRO
+MI7-LA (X4)
+
+
+LA
+Me tiene encadenado
+         RE      MI7
+a su corazon la piedra
+    RE      LA
+de su indiferencia
+      MI7      LA
+prisionero yo soy
+
+
+intro
+
+
+LA
+Soy presa de sus caprichos
+             RE       MI7
+su juego de amor me atrapa
+  RE           LA
+conquista mi alma
+     MI7         LA
+sin tener compasion
+
+
+intro
+
+
+LA
+No hay jaula que la retenga
+           RE       MI7
+es pajaro libre al viento
+  RE         LA
+solita sin dueño
+          MI7     LA
+siempre quiere volar
+
+
+
+LA
+Arisca como ninguna
+           RE      MI7
+la sin corazon se llama
+RE            LA
+como un picaflor
+       MI7          LA
+revoloteando se escapa
+
+
+intro
+
+
+LA
+Bien sabe que es arroyito
+           RE        MI7
+y muero de sed por ella
+    RE        LA
+su curso me aleja
+         MI7     LA
+cuando pido su amor
+
+
+intro
+
+
+LA
+Como agua de entre los dedos
+             RE       MI7
+se escapa de mi y se aleja
+    RE      LA
+dejandome apenas
+      MI7       LA
+gotas de su sabor
+
+
+intro
+
+
+LA
+Es dulce como la tuna
+               RE      MI7
+por dentro su miel me brinda
+     RE       LA
+por fuera me pincha
+         MI7    LA
+SI LA quiero tener
+
+
+
+LA
+Arisca como ninguna
+           RE      MI7
+la sin corazon se llama
+RE         LA
+como un picaflor
+      MI7           LA
+revoloteando se escapa`,
+  },
+  {
+    title: "Eterno amor",
+    slug: "eterno-amor",
+    author: "Los Manseros Santiagueños",
+    letra: `
+    Intro: F - A# - F - C -
+       A# - F - C - A# - F
+
+F                   C
+Despierta ya mujer asi yo puedo ver
+Dm                        Am
+la mirada de tu alma tan profunda
+A#                       F
+que me hace tanto bien y sueño
+G                                C
+que entre tus brazos tu boca me diga te quiero
+A# - C
+Oohhh
+
+F                   C
+siente mi corazon y el fuego de su amor
+Dm                        Am
+no lo dejes asi muerto de frio
+A#                       F
+tu mirada es todo mi abrigo
+G                                 C
+tiene la gracia de hacerme que me sienta vivo
+A# - C - F
+Oohhh
+
+F                     A#
+SI SUPIERAS DE VERDAD QUE TU ERES MI ETERNO AMOR
+C                   A#           F      C
+Y QUE TODA ESTA DISTANCIA ME MARCHITA COMO UNA FLOR
+F                     A#
+SI SUPIERAS DE VERDAD CUANTO ES QUE TE QUIERO YO
+C                   A#           F      C
+Y QUE TODA ESTA DISTANCIA SE ME AHONDA EL CORAZON
+
+A# - C - F
+Oohhh
+
+F                   C
+Despierta ya mujer asi yo puedo ver
+Dm                        Am
+la mirada de tu alma tan profunda
+A#                       F
+que me hace tanto bien y sueño
+G                                C
+que entre tus brazos tu boca me diga te quiero
+A# - C
+Oohhh
+
+F                   C
+siente mi corazon y el fuego de su amor
+Dm                        Am
+no lo dejes asi muerto de frio
+A#                       F
+tu mirada es todo mi abrigo
+G                                 C
+tiene la gracia de hacerme que me sienta vivo
+A# - C - F
+Oohhh
+
+F                     A#
+SI SUPIERAS DE VERDAD QUE TU ERES MI ETERNO AMOR
+C                   A#           F      C
+Y QUE TODA ESTA DISTANCIA ME MARCHITA COMO UNA FLOR
+F                     A#
+SI SUPIERAS DE VERDAD CUANTO ES QUE TE QUIERO YO
+C                   A#           F      C
+Y QUE TODA ESTA DISTANCIA SE ME AHONDA EL CORAZON
+
+A# - C - F
+Oohhh`,
+  },
+  {
+    title: "Juan de la calle",
+    slug: "juan-de-la-calle",
+    author: "Chaqueño Palavecino",
+    letra: `
+Intro
+(SI7  MIm   SI7   MIm) x2
+
+
+(Estrofa)
+
+MIm*           RE*       SOL
+soy nacido en cualquier villa
+           RE7       SOL
+me llaman juan de la calle
+SOL                LA
+diariero por la mañana
+         LA         SOL
+y lustra botas de tarde
+   SI7                MIm
+soy nacido en cualquier villa
+          SI7         MIm
+me llaman juan de la calle
+
+
+(intro)
+
+a mi me enseño el baldio
+a gambetear por la orilla
+en la vida por el centro
+me pone la sancadilla
+a mi me enseño el baldio
+a gambetear por la orilla
+
+(intro)
+
+mi barquito de ilusion
+rema contra la corriente
+y con el hilodel alma
+busca el sol mi barrilete
+mi barquito de ilusion
+rema contra la corriente
+
+
+(Estribillo)
+
+    DO                DO
+Soy de una villa y disculpe
+             RE7        SOL
+el diablo en cualquier lugar
+     SOL            LA
+y el indio de la comparsa
+        LA          SOL
+cundo llega el carnaval
+  SI7                  MIm
+soy de una villa de salta
+             SI7       MIm
+el diablo en cualquier lugar
+
+
+(intro)
+
+mi padre en un carro viejo
+paso comprando botellas
+y si la cosa no cambia
+yo he de seguir con su estrella
+mi padre en un carro viejo
+paso comprando botellas
+
+(intro)
+
+como soñar nada cuesta
+yo largo al rio mi anzuelo
+a ver si una noche de estas
+puedo enganchar el lucero
+como soñar nada cuesta
+yo largo al rio mi anzuelo
+
+(intro)
+
+al terminar la jornada
+no tengo mejor fortuna
+que meterme en los bolsillos
+la moneda de la luna
+al terminar la jornada
+no tengo mejor fortuna
+
+
+    DO                DO
+Soy de una villa y disculpe
+             RE7        SOL
+el diablo en cualquier lugar
+     SOL            LA
+y el indio de la comparsa
+        LA          SOL
+cundo llega el carnaval
+  SI7                  MIm
+soy de una villa de salta
+             SI7       MIm
+el diablo en cualquier lugar`,
+  },
+  {
+    title: "La Yapa",
+    slug: "la-yapa",
+    author: "Chaqueño Palavecino",
+    letra: `
+    INTRO: MI7  LA  MI7  LA
+
+
+LA            FA        SOL7           DO
+Una joya para mí es el sabor de tus besos,
+   MI7              LA    FA      SI7      MI7       
+Se caen de propio peso, pero no llegan al fin
+                  DO    MI7        LA  
+Y prefieres presumir teniéndome preso.
+
+INTRO
+
+Estoy convencido que tus ojos brillan de verme,
+Y no puedo convencerme porque me dijiste ayer
+Que habrá una primera vez mañana con suerte.
+
+INTRO
+
+    LA         SOL    FA   RE  SOL SOL/SI DO
+Yo quiero sin ofender decirte andas uvita
+   SOL  SOLdimm  LA   SOL     FA      SI7  MI7 
+El corazón te palpita     tan solo de suponer
+                   DO      MI7       LA
+Que te pediré otra vez me des la yapita.
+
+
+No entiendo por que razón tu corazón se me escapa
+Y tu boquita me mata cuando me dices que no,
+que aparte del corazón, te pido la yapa.
+ 
+
+INTRO
+
+No soy pretencioso amor pero porque me lastimas
+Adentro llevo una espina que me dobla el corazón
+Si la yapa es la ilusión de toda mi vida.
+
+INTRO
+
+A veces me da pensar que vos te haces la rogada
+Y luego no tienes nada, te haces la que no escuchas
+Que ya en el tramo final la yapa no es nada.
+
+INTRO
+
+(Con acordes de la 3º estrofa)
+
+Para poder aflojar y comprender que no entiendo
+De mis labios juramento quizá tengas que escuchar
+Si no tendré que esperar hasta el casamiento.
+
+No entiendo por que razón tu corazón se me escapa
+Y tu boquita me mata cuando me dices que no,
+que aparte del corazón, te pido la yapa.`,
+  },
+  {
+    title: "A don Ata",
+    slug: "a-don-ata",
+    author: "Soledad Pastorutti",
+    letra: `
+    intro: MIm-SI7-SI7-SOL-SOL-SI7-MIm
+
+    MIm
+Por el camino del indio
+                   SI7
+Y el ánima de don ata
+
+En su alazán montado
+                    DO
+Lo vio pasar la vidala
+                       LAm           SI7
+El aire del cerro, las flores del valle
+                    SOL             SI7     MIm
+Se le enredan en el alma ¡Ay ay ay! a don ata
+
+   MIm
+Una luna tucumana
+                         SI7
+Que alumbra piedra y camino
+
+Y junto a la pobrecita
+                    DO
+Lo lloran montes y ríos
+             LAm                 SI7
+Por tafí del valle  Campos de acheral
+                     SOL
+También por la banda y lules
+           SI7    MIm
+Igual por amaichá.
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+
+   MIm
+La criollita santiagueña
+                         SI7
+Para aliviarla del frío
+
+Le teje un poncho pampa
+                    DO
+Al payador perseguido
+             LAm            SI7
+Allá por barrancas Y por salavina
+                     SOL
+La humilde con la vidala
+         SI7    MIm
+Le busca guarida.
+
+    MIm
+Ahí anda don atahualpa
+                      SI7
+Por los caminos del mundo
+
+Por una copla por lanza
+                       DO
+Marcando los cuatro rumbos
+                LAm                SI7
+Que dios lo bendiga lo tenga en la gloria
+                     SOL          SI7     MIm
+Por tantos recuerdos lindos y por sus memorias.
+
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+
+   MIm
+Un arriero solitario
+                 SI7
+Pasó por altamirano
+
+Con un silbo nostalgioso
+                    DO
+En busca de sus hermanos
+              LAm            SI7
+Arriando sus penas Por no encontrarlo
+                SOL
+Se fue yendo despacito
+             SI7     MIm
+Del pago entrerriano.
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+   MIm
+Se viene aclarando el día
+                 SI7
+Por el cerro colorado
+
+Y en las esquinas del churqui
+                       DO
+Se estrella un rayo cortado
+              LAm            SI7
+Despierta la añera Por la gulchaqueña
+                    SOL
+San francisco del chañar
+             SI7     MIm
+Y también santa elena.
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+   MIm
+Un aire de buenos aires
+                  SI7
+Le dio su canto de viento
+
+Y se durmió en una huella
+                  DO
+En un estilo sin tiempo
+              LAm            SI7
+Allá en pergamino Tal vez santa rosa
+                   SOL
+Lo llora toda la pampa
+          SI7     MIm
+En una bordona.intro: MIm-SI7-SI7-SOL-SOL-SI7-MIm
+
+    MIm
+Por el camino del indio
+                   SI7
+Y el ánima de don ata
+
+En su alazán montado
+                    DO
+Lo vio pasar la vidala
+                       LAm           SI7
+El aire del cerro, las flores del valle
+                    SOL             SI7     MIm
+Se le enredan en el alma ¡Ay ay ay! a don ata
+
+   MIm
+Una luna tucumana
+                         SI7
+Que alumbra piedra y camino
+
+Y junto a la pobrecita
+                    DO
+Lo lloran montes y ríos
+             LAm                 SI7
+Por tafí del valle  Campos de acheral
+                     SOL
+También por la banda y lules
+           SI7    MIm
+Igual por amaichá.
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+
+   MIm
+La criollita santiagueña
+                         SI7
+Para aliviarla del frío
+
+Le teje un poncho pampa
+                    DO
+Al payador perseguido
+             LAm            SI7
+Allá por barrancas Y por salavina
+                     SOL
+La humilde con la vidala
+         SI7    MIm
+Le busca guarida.
+
+    MIm
+Ahí anda don atahualpa
+                      SI7
+Por los caminos del mundo
+
+Por una copla por lanza
+                       DO
+Marcando los cuatro rumbos
+                LAm                SI7
+Que dios lo bendiga lo tenga en la gloria
+                     SOL          SI7     MIm
+Por tantos recuerdos lindos y por sus memorias.
+
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+
+   MIm
+Un arriero solitario
+                 SI7
+Pasó por altamirano
+
+Con un silbo nostalgioso
+                    DO
+En busca de sus hermanos
+              LAm            SI7
+Arriando sus penas Por no encontrarlo
+                SOL
+Se fue yendo despacito
+             SI7     MIm
+Del pago entrerriano.
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+   MIm
+Se viene aclarando el día
+                 SI7
+Por el cerro colorado
+
+Y en las esquinas del churqui
+                       DO
+Se estrella un rayo cortado
+              LAm            SI7
+Despierta la añera Por la gulchaqueña
+                    SOL
+San francisco del chañar
+             SI7     MIm
+Y también santa elena.
+
+MIm-SI7-SI7-SOL-SOL-SI7-MIm
+   MIm
+Un aire de buenos aires
+                  SI7
+Le dio su canto de viento
+
+Y se durmió en una huella
+                  DO
+En un estilo sin tiempo
+              LAm            SI7
+Allá en pergamino Tal vez santa rosa
+                   SOL
+Lo llora toda la pampa
+          SI7     MIm
+En una bordona.`,
+  },
+  {
+    title: "Por tu abandono padezco",
+    slug: "por-tu-abandono-padezco",
+    author: "Lázaro Caballero",
+    letra: `
+    Intro: D-A-E-A-D-A-E-A
+
+     A                                      D              E
+Que bello ha sido aquel tiempo pero se ha vuelto muy triste
+    D                              Bm             E
+El día que vos te fuiste y en soledad me ha dejado
+               A                 E          A
+Mi corazón apenado que yo te busque me exije
+
+    A                                 D           E
+El toba con el robusto también te extrañan conmigo
+   D                                 Bm            E
+Lo noto en sus ladridos que por las tardes se opacan
+                      A             E              A
+De apoco también las catas fueron botando sus nidos
+
+   A                                  D              E
+El puesto ya no es lo mismo sin tu silbido y palabras
+    D                                 Bm          E
+Allá en el corral te extrañan mirando para la casa
+                     A                E           A
+La overa y la negra pampa que de temprano ordeñabas
+
+   A                                  D          E
+Es muy profunda la herida por tu abandono padezco
+      D                                  Bm             E
+Los grillos con su concierto tal vez me alivien cantando
+                      A              E           A
+Vivir  por siempre penando yo se que no lo merezco
+
+    A                                D            E
+Se va secando el follaje del árbol que fue florido
+    D                                Bm             E
+Los pájaros ya se han ido y he visto hasta las tunas
+                   A              E           A
+Como extrañando la luna anoche no han florecido
+
+      A                                D            E
+Desde el monte ya no cantan como los tiempos felices
+    D                              Bm             E
+La chuña y los crespines entre murmullos de siempre
+                      A              E            A
+Se escuchan otras dolientes el canto de las perdices
+
+   A                                D                 E
+No he de pedirte que vuelvas aunque tu ausencia me mata
+   D                              Bm           E
+La chicharra ya no cantan por olvido por pereza
+                    A              E            A
+Y ha callado de tristeza el grillo de mi garganta
+
+   A                                 D           E
+Es muy profunda la herida por tu abandono padezco
+      D                                  Bm             E
+Los grillos con su concierto tal vez me alivien cantando
+                      A              E           A
+Vivir por siempre penando yo se que no lo merezco
+`,
+  },
+  {
+    title: "Caballo Viejo",
+    slug: "caballo-viejo",
+    author: "Chaqueño Palavecino",
+    letra: `
+    SI7        MIm        SI7          MIm
+Cuando el amor llega asi de esta manera
+MIm  RE    DO     SI7
+uno no se da ni cuenta
+   SI7
+el Carautal reverdece
+     LAm            SI7
+y el Guamachito florece
+                  MIm
+y las sogas se revientan (bis)
+
+
+-estribillo-
+MI7     LAm                               MIm
+  Caballo le dan sabana y tiene tiempo contao
+                                       SI7
+y se va por la mañana con su pasito apurao
+                                             MIm    MI7
+a verse con su potranca que lo tiene embarbascao
+   LAm                                            MIm
+el potro da tiempo al tiempo porque le sobra la edad
+                                  MIm DO     SI7
+caballo viejo no puede perder la flor que le dan
+                                                 MIm
+porque despues de esta vida, no hay otra oportunidad
+
+
+punteo - las notas son las mismas que el estribillo
+
+
+cuando el amor llega asi de esta manera
+uno no tiene la culpa
+quererse no tiene horarios
+ni fecha en el calendario
+cuando las ganas se juntan (Bis)
+
+caballo le dan sabana porque esta viejo y cansao
+pero no se dan de cuenta que un corazon amarrao
+cuando le sueltan las riendas es caballo desbocao
+
+Y si una potra alazana caballo viejo se encuentra
+el pecho se le desgrana y no le hace caso a faseta
+y no le obedece a freno ni lo paran falsas riendas.
+
+el potro da tiempo al tiempo porque le sobra la edad
+caballo viejo no puede perder la flor que le dan
+porque despues de esta vida, no hay otra oportunidad (3 veces)
+
+LA - MI - SI7 - mi/SI7/miSI7        MIm        SI7          MIm
+Cuando el amor llega asi de esta manera
+MIm  RE    DO     SI7
+uno no se da ni cuenta
+   SI7
+el Carautal reverdece
+     LAm            SI7
+y el Guamachito florece
+                  MIm
+y las sogas se revientan (bis)
+
+
+-estribillo-
+MI7     LAm                               MIm
+  Caballo le dan sabana y tiene tiempo contao
+                                       SI7
+y se va por la mañana con su pasito apurao
+                                             MIm    MI7
+a verse con su potranca que lo tiene embarbascao
+   LAm                                            MIm
+el potro da tiempo al tiempo porque le sobra la edad
+                                  MIm DO     SI7
+caballo viejo no puede perder la flor que le dan
+                                                 MIm
+porque despues de esta vida, no hay otra oportunidad
+
+
+punteo - las notas son las mismas que el estribillo
+
+
+cuando el amor llega asi de esta manera
+uno no tiene la culpa
+quererse no tiene horarios
+ni fecha en el calendario
+cuando las ganas se juntan (Bis)
+
+caballo le dan sabana porque esta viejo y cansao
+pero no se dan de cuenta que un corazon amarrao
+cuando le sueltan las riendas es caballo desbocao
+
+Y si una potra alazana caballo viejo se encuentra
+el pecho se le desgrana y no le hace caso a faseta
+y no le obedece a freno ni lo paran falsas riendas.
+
+el potro da tiempo al tiempo porque le sobra la edad
+caballo viejo no puede perder la flor que le dan
+porque despues de esta vida, no hay otra oportunidad (3 veces)
+
+LA - MI - SI7 - mi/SI7/mi`,
+  },
+  {
+    title: "A don Amancio",
+    slug: "a-don-amancio",
+    author: "Chaqueño Palavecino",
+    letra: `
+    Intro
+FA#7 SIm FA#7 SIm FA#7 SIm
+                          Adentrito...
+
+SIm          RE    LA         RE
+Si las calchapayas sueltan un gemir
+FA#7          SIm     FA#7          SIm
+seguro es Don Amancio tocando el violín.
+
+FA#7 SIm FA#7 SIm FA#7 SIm
+
+SIm          RE   LA        RE
+Su violín hechizo tosco y sonador
+FA#7           SIm     FA#7       SIm
+corazón de algarrobo y un viejo misto.
+
+FA#7 SIm FA#7 SIm FA#7 SIm
+
+SIm          RE    LA          RE
+Zamba y chacarera pide el bailarín
+FA#7            SOL   FA#7            SIm
+al compás del leguero que empieza a latir.
+
+SIm          RE    LA            RE
+Si las calchapayas sueltan un gemir
+                                             estribillo
+MI             RE     FA#7          SIm
+seguro es Don Amancio tocando el violín.
+
+Intro
+FA#7 SIm FA#7 SIm FA#7 SIm
+                          Adentrito...
+SIm            RE    LA        RE
+Canta una chicharra del algarrobal
+FA#7          SIm  FA#7         SIm
+vibra la Pachamama para el carnaval.
+
+FA#7 SIm FA#7 SIm FA#7 SIm
+
+SIm        RE     LA           RE
+Toque Don Amancio no se haga rogar
+FA#7            SIm   FA#7        SIm
+la luna desde el alba bajará a bailar.
+
+FA#7 SIm FA#7 SIm FA#7 SIm
+
+SIm           RE  LA           RE
+Como canta el río por cantar nomás
+FA#7         SOL   FA#7         SIm
+entona Lucio Rojas coplas del lugar.
+
+SIm          RE    LA            RE
+Si las calchapayas sueltan un gemir
+                                             estribillo
+MI             RE     FA#7          SIm
+seguro es Don Amancio tocando el violín.`,
+  },
+  {
+    title: "Desde un ayer a un mañana",
+    slug: "desde-un-ayer-a-un-manana",
+    author: "Lázaro Caballero",
+    letra: `
+    [Intro] E  A  E  A
+        D  A  E  A
+        D  A  E  A
+
+A                                                 E   A
+Se van cortando los tientos, desde un ayer a un mañana
+D                                           F#  Bm
+En mi pecho se desgranan estos versos que nacieron
+E                   A                E            A
+Monte adentro de recuerdos florecido en mi nostalgia
+
+( D  A  E  A )
+( D  A  E  A )
+
+A                                                  E  A
+Por más que hán pasa'o los años, yo evoco en la lejanía
+D                                       F#  Bm
+El lugar donde vivía, aquella mi linda casita
+E                    A            E         A
+Donde junto a mi guitarra pasaba las tardecitas
+
+( D  A  E  A )
+( D  A  E  A )
+
+A
+Guitarra que alguna vez compartió mis soledades
+D                                         F#  D
+Te llevo en inmensidad dentro del pecho metida
+E                     A             E           A
+Sos un milagro en mi vida compañera y mil verdades
+
+A                                              E  A
+Al padre eterno agradezco, por todo lo antes vivido
+D                                            F#  Bm  F#7
+Aunque mi infancia se ha ido y quedan en mi memoria
+E                     A             Bm E          A
+Recuerdos que son historia de un ayer que nunca olvido
+
+[Interlúdio] E  A  E  A
+             D  A  E  A
+             D  A  E  A
+
+A                                         E A
+Los sábados y domingos cuando mi tata llegaba
+D                                        F#  Bm
+Cansado de la jornada pero con alegría inmensa
+E                     A             E         A
+A compartir en su mesa el pan que nunca faltaba
+
+( D  A  E  A )
+( D  A  E  A )
+
+A                                           E  A
+Recuerdo que cuando niño al ritmo de Los Manseros
+D                                          F# Bm
+Iba amarrando mis sueños al palenque de la vida
+  E                     A               E           A
+Sin pensar que Dios un día me haría también guitarrero
+
+( D  A  E  A )
+( D  A  E  A )
+
+A
+La vida va de a caballo poniendo el alma en la armada
+D                                            F#7 Bm
+Tal vez en esta pillada hoy me acompaña la suerte
+E                       A              E            A
+Aunque el toro de la muerte me gane en la atropellada
+
+ A                                         E  A
+Sigo pialando recuerdos con el lazo del destino
+D                                              F#  Bm  F#7
+Me otorga licencia al vino, embriagador de nostalgias
+E                       A             E         A
+Con grillos en la garganta y el corazón encendido`,
+  },
+  {
+    title: "Corazón Blanco",
+    slug: "corazon-blanco",
+    author: "Lázaro Caballero",
+    letra: `
+    INTRO: FA-DO-SOL-FA-DO-SOL-DO
+
+C
+Cuando saldo a campear
+      F             C
+En mi corazón blanco
+F                   C
+No hay hachero pasador    BIS
+         G            C
+Cuando le tiro mi lazo
+
+De gran guardia yo soy
+No me achiro ni agrando
+De Yvy pora mi corazón   BIS
+El puesto que amo tanto
+
+ESTRIBILLO:
+C          G             C
+Pa'la yerra lo guá calchear
+     F            C
+A mi corazón blanco
+F                 C
+Orgullo de mi región
+         G            C
+Caballo guapo pa'l campo
+F                 C
+Orgullo de mi región
+           G                  C
+Así es mi corazón blanco
+
+Compañero de andar
+En los montes y esteros
+Y tambien en el corral        BIS
+Buena rienda y ventajero
+
+Y si voy pa'l poblao
+Por supuesto lo arreglo
+Con el tuse bien cortao       BIS
+Bien ensillao con mi apero
+
+ESTRIBILLO:
+Pa'la yerra lo guá calchear
+A mi corazón blanco
+Orgullo de mi región
+Caballo guapo pa'l campo
+Orgullo de mi región
+Así es mi corazón blanco`,
+  },
+  {
+    title: "Tramposo",
+    slug: "tramposo",
+    author: "Chaqueño Palavecino",
+    letra: `
+    SIm             FA#7      SIm
+     Vaya teniendo cuidado
+        SI7                         MIm
+     si esta engañando a este criollo
+  MIm                       SOL
+     por algo ay ser que en la tierra
+  SOL                         FA#
+     la trampa se ha hecho pal zorro
+   MIm                         SIm  SOL
+     por algo ay ser que en la tierra
+     FA#                         SIm
+     la trampa se ha hecho pal zorro
+
+Usa las mismas notas del anterior
+
+     Si me engaño en la cuadrera
+     la barba ponga en remojo
+     que usted solito compadre
+     esta cavandose el pozo
+
+Estribillo:
+SI7
+     Ese que lleva las riendas
+     SI7                         MIm
+     mejor que no se haga el tonto
+     MIm              SOL
+     yo le confie mi caballo
+       SOL                  FA#
+     y el le ha vendado los ojos
+     MIm                SIm   SOL FA#
+     a los que juegan tan sucio
+     FA#                     SIm
+     ahi que bajarlos del lomo
+
+
+
+En el final del camino
+se ha de mancar el tramposo
+y todo lo mal habido
+vendra a quitarle el demonio
+
+
+Aquel que vende un amigo
+queriendo hacer buen negocio
+hoy tiene pan para el dia
+despues lo comen los piojos
+
+
+Estribillo:
+SI7
+     Ese que lleva las riendas
+     SI7                         MIm
+     mejor que no se haga el tonto
+     MIm              SOL
+     yo le confie mi caballo
+       SOL                  FA#
+     y el le ha vendado los ojos
+     MIm                SIm   SOL FA#
+     a los que juegan tan sucio
+     FA#                     SIm
+     ahi que bajarlos del lomo`,
+  },
+  {
+    title: "La ley y la trampa",
+    slug: "la-ley-y-la-trampa",
+    author: "Chaqueño Palavecino",
+    letra: `
+   Dm
+   Yo que fije las reglas
+
+   Que lleve las riendas
+               A
+   Que hice la ley
+
+   Tu que ponias cara
+
+   Carita de nada
+               Dm
+   Dejandome hacer
+
+   Yo que un amor dejaba
+                  D7
+   Cuando otro llegaba
+              Gm
+   Sin compadecer
+                   Dm
+   Tu sin un solo alarde
+               E     A7
+   Poquito más tarde
+                Dm
+   Me hiciste caer
+
+[Estribillo]
+
+        Dm
+  En tu boca mordí
+
+  La manzana carmín
+                      A7
+  Del deseo y la tentacíon
+
+  Pero no imaginé
+
+  Que evitando la ley
+                    Dm
+  En la trampa caía yo
+        Dm
+  En tu boca mordí
+
+  A  manzana carmín
+                      A7
+  Del deseo y la tentacíon
+
+  Pero no imaginé
+
+  Que evitando la ley
+                    Dm
+  En la trampa caía yo
+        Gm            Dm
+  Puras leyes , puras trampas
+       A7        Dm
+  Inventamos al amor
+      Gm        Dm
+  Y seguimos adelante
+      A7        Dm
+  Corazón a corazón
+
+  (Como las primeras estrofas)
+  Dm
+  Ay! florcita traviesa
+
+  Pusiste entre rejas
+             A
+  A este picaflor
+
+  Y hoy tus leyes se cumplen
+
+  Y mi barco se hunde
+                Dm
+  En tu mar de amor
+
+  Yo que inventé este juego
+                  D7
+  De escapar a tiempo
+               Gm
+  No me quiero ir
+                    Dm
+  Tu sin mover un dedo
+               E     A7
+  Me diste el señuelo
+                Dm
+  Que te puse a ti
+
+[Estribillo]
+
+        Dm
+  En tu boca mordí
+
+  La manzana carmín
+                      A7
+  Del deseo y la tentacíon
+
+  Pero no imaginé
+
+  Que evitando la ley
+                    Dm
+  En la trampa caía yo
+        Dm
+  En tu boca mordí
+
+  La manzana carmín
+                      A7
+  Del deseo y la tentacíon
+
+  Pero no imaginé
+
+  Que evitando la ley
+                    Dm
+  En la trampa caía yo
+        Gm            Dm
+  Puras leyes , puras trampas
+       A7        Dm
+  Inventamos al amor
+      Gm        Dm
+  Y seguimos adelante
+      A7        Dm
+  Corazón a corazón
+
+      Gm            Dm
+  Puras leyes , puras trampas
+       A7        Dm
+  Inventamos al amor
+      Gm        Dm
+  Y seguimos adelante
+      A7        Dm
+  Corazón a corazón`,
+  },
+  {
+    title: "La chicharra cantora",
+    slug: "la-chicharra-cantora",
+    author: "Las Voces de Orán",
+    letra: `
+    INTRO
+D/F# - A7 - D/F#
+A7 - D/F# - D/F# - A7
+
+   D/F#
+Ay chicharra no quiero que cantes
+  D/F#
+Que si cantas me quitas el sueño
+     A7                      D/F#
+No hay descanso pa este pobre hachero
+     A7                 D/F#
+En las siesta del Chaco Salteño
+
+Chicharrita pudiera tu canto
+Convertirlo en una chacarera
+Y cantarla pa los carnavales
+En mis pagos las noches enteras
+
+Es tu vida tan corta chicharra
+Ya no escucho tu canto que quiero
+Ya se fue por los algarrobales
+Volverá con el son de Febrero
+
+ ESTRIBILLO
+
+  D/F#
+Sobre el quenti madura tu canto
+  D/F#
+Aspa rubia dulzura del pobre
+    A7                D/F#
+Que la aloja dará si madura
+     A7                  D/F#
+Un consuelo pa mi sinsabores
+
+  INTRO
+
+
+La chicharra con el chicharrito
+Se divierten cantando a la siesta
+Los paisanos miedosos del diablo
+Se lo pasan haciendo promesa
+
+Ay chicharra violín de verano
+Canto solo en el cielo celeste
+A LA suelta del SOL de los charcos
+Anunciando en el canto su muerte
+
+Cuando vuelva mi vida a la tierra
+Como vuelve la tuya en febrero
+De retorno seré nuevamente
+Mariposas de coplas y sueños.
+`,
+  },
+  {
+    title: "La taleñita",
+    slug: "la-taleniita",
+    author: "Chaqueño Palavecino",
+    letra: `
+    intro:LA-MI-LA-LA SOL FA MI-LAm    MI LA MI LA
+
+LA           RE   SOL         DO
+Lloraran tus ojos toma mi pañuelo,
+
+MI LA              MI
+      y en tus lagrimitas se mira el cielo
+           LA
+se mira el cielo y en tus
+     MI                            LA
+Lagrimitas mi Taleñita se mira el cielo
+
+Como dos estrellas brillan por la luna,
+se esconden toditas ya no hay ninguna
+ya no hay ninguna, se esconden
+toditas mi taleñita ya no hay ninguna.
+
+       RE   SOL                DO
+Achalay mi sueño es volverte a ver
+MI  LAm           MI
+       pero la distancia me quita el sueño
+           LA
+de ser tu dueño, pronto iré a
+   MI              LA
+buscarte mi de mi querer.
+
+
+Segunda parte
+
+Añoro tu pelo tan negro y sedoso
+no vuelvas recuerdo q es muy penoso 2v)
+Y tu pollerita baila en mil lugares
+(revuelan pañuelos en los carnavales en los carnavales 2v)
+
+       RE   SOL                DO
+Achalay mi sueño es volverte a ver
+MI  LAm           MI
+       pero la distancia me quita el sueño
+           LA
+de ser tu dueño, pronto iré a
+   MI              LA
+buscarte mi de mi querer
+`,
+  },
+  {
+    title: "Marca Borrada",
+    slug: "marca-borrada",
+    author: "Jorge Rojas",
+    letra: `
+    intro: LA7 - REm x4
+
+REm
+Soñando con regresar
+RE7                      SOLm
+fuè larga tal vez la ausencia.
+
+andube por la querencia
+LA#      (MI7)         LA7
+detras de lo fraternal
+                  LA#
+allà en el algarrobal
+LA7                REm
+que al norte me lleva.
+
+De chango yo supe andar
+descalzo por los caminos
+el rumbo de un peregrino
+cantando tome al final
+nostalgia de aquel lugar
+que llevo conmigo.
+
+Ya està por amanecer
+se escuchan cantar las aves,
+y al trino de los zorzales
+el viento da su poder.
+el monte demuestra ser
+cantor como nadie.
+
+EST:
+El patio recièn regao
+debajo de la enramada.
+violines, tambièn guitarrras
+y bombos van a sonar
+la fiesta va a comenzar
+en marca borrada.
+
+Volvì para ver el sol
+que sale de la ribera
+bailar una chacarera
+de nuevo junto al fogòn,
+cantando de corazòn
+debajo 'e la brea.
+
+La luna que alumbra màs
+y el brillo de las estrellas
+nos encuetra donde quiera
+el cielo que han de mirar.
+yo se que no hay otro màs
+como el de mi tierra.
+
+Y todo lo que vivì
+a orillas del Pilcomayo
+en mi pecho està grabado
+un tiempo que fuì feliz.
+yo se que no ha de morir
+mi amor por el pago.`,
+  },
+  {
+    title: "Amor Chaqueño",
+    slug: "amor-chaqueno",
+    author: "Lázaro Caballero",
+    letra: `
+    INTRO: [DO - FA] x 4
+
+   FA        LA#            FA
+Chaqueña, chaqueña es esa mujer
+       LA#            FA
+Que el fuego de su querer
+  DO                 FA
+Dejo encendido en mi piel.
+
+
+Su encuentro fue dulce como la miel
+Su boca rojo clavel
+Que siempre recordare.
+
+
+Del cielo celeste se oscurecio
+Cuando una tarde sin sol
+Quedo flotando su adios.
+
+
+Chaqueño, chaqueño fue nuestro amor
+Si bien el tiempo paso
+Pero el recuerdo quedo.
+
+
+Si ella quisiera un dia volver
+Cantando la esperare
+Recomenzando el ayer.
+
+
+De sangre chaqueña somos los dos
+Por eso es que en el amor
+Fuimos locura y pasion.
+
+
+Llorando de pena debe buscar
+Porque un amor de verdad
+No se lo puede olvidar.
+
+
+Chaqueño, chaqueño fue nuestro amor
+Si bien el tiempo paso
+Pero el recuerdo quedo.`
+  },
+  {
+    title: "Adiós que te vaya bien",
+    slug: "adios-que-te-vaya-bien",
+    author: "Los Huayra",
+    letra: `
+           MI7    LA
+No soy más aquel
+    SI7     MI
+no mientas más
+        MI7      LA
+que el amor de ayer
+    SI7   MI
+no existe ya.
+
+La flor del jardín
+ya se secó
+el otoño cruel
+se la llevó.
+
+  MI7              LA
+Y lo que vivimos ayer
+                     SI7
+tan solo un recuerdo es
+                    LA
+ya nunca quiero volver
+  SI7    MI
+a revivirlo.
+
+No quiero saber
+donde andaran
+me conformo yo
+con olvidar.
+
+Y ya que el amor se acabó
+el fuego de la pasión
+es poco lo que quedó
+solo cenizas.
+
+Y si alguna vez
+te vuelvo a hallar
+que seas muy feliz
+voy a desear.
+
+Adiós que te vaya muy bien
+que encuentres otro querer
+no lo vuelvas a perder
+nunca en la vida.
+
+
+Introducción
+
+Ya la noche gris
+alumbra el sol
+un remedio hay
+para el dolor.
+
+Un amor se fue
+porqué llorar
+quien te quiera bien
+encontrarás.
+
+A veces me pregunto yo
+que ha sido lo que falló
+si lo nuestro terminó
+quien fue el culpable.
+
+No será tal vez
+mucho mejor
+que haya sido así
+para los dos.
+
+Tan solo el tiempo nos dirá
+quién de los dos quiso más
+o si podrás olvidar
+tanto cariño.
+
+Y si alguna vez
+te vuelvo a hallar
+que seas muy feliz
+voy a desear.
+
+Adiós que te vaya muy bien
+que encuentres otro querer
+no lo vuelvas a perder
+nunca en la vida.`
+  }
 ];
