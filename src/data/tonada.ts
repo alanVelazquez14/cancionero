@@ -1080,4 +1080,102 @@ NACIO EN MI GUITARRA
 POR MUCHAS CANTORAS
 CRECIO EN MI GARGANTA`,
   },
+  {
+    title: "Cuando se fue",
+    slug: "cuando-se-fue",
+    author: "Ernesto Villavicencio",
+    letra: `
+Se fue llevándose todo,
+alegría fé y amor,
+y tan solo me dejó
+lo que no pudo llevarse,
+un corazón angustiado
+lleno de pena y dolor.
+
+Estribillo
+
+Llora corazón tu pena
+llora pero no maldigas,
+es el tiempo el que castiga
+al que en el mundo hizo mal,
+nadie se va sin pagar
+las deudas en esta vida.
+
+Se fue llevándose todo,
+nada le importó de mí,
+y al momento de partir
+lloraban sus ojos claros,
+y hoy tan solo es un recuerdo
+lo que a su lado viví.  
+
+Esta tonada cuyana
+que cantamos con orgullo,
+es un mensaje de Cuyo
+que se transforma en racimo,
+con mucha fe y esperanza
+para todos los sanjuaninos.
+
+Amigo.... viva
+el culpable será usted,
+si yo muero de sed
+y usted callado la boca,
+si no me invita una copa
+se arrepentirá después.
+
+ `,
+  },
+  {
+    title: "Porque somos hermanos",
+    slug: "porque-somos-hermanos",
+    author: "Las hermanas Abraham",
+    letra: `
+Porque somos hermanos
+Hermano del alma mía
+Hoy te he venido a cantar
+Yo te quiero regalar
+Una tonada este día
+
+Quiero darte la alegría
+La que cabe en mis deseos
+Porque sólo Dios lo sabe
+Lo mucho que yo te quiero. 
+
+Porque somos fruto de una misma planta
+Porque somos sangre de una misma vena
+Porque sé que tú amas
+Lo mismo que yo amo
+Y somos hermanos en malas y en buenas. 
+
+Compañero de alegrías
+Compañero de tristezas
+Puedes tener la certeza
+Que ésta, tu dicha es la mía
+
+Cuántas cosas yo daría
+Sólo por verte feliz
+Y si es preciso por ti
+Te juro daría la vida.
+
+Porque somos fruto de una misma planta
+Porque somos sangre de una misma vena
+Porque sé que tú amas
+Lo mismo que yo amo
+Y somos hermanos en malas y en buenas.
+
+Hermano, gracias te digo
+Por ser así como sos
+Noble, cuyano y sincero
+Orgullosa estoy de vos
+
+Aunque los años transcurran
+En mi pecho siempre estás
+Vibrando a un mismo latido
+Brindemos por la hermandad.
+
+Porque somos fruto de una misma planta
+Porque somos sangre de una misma vena
+Porque sé que tú amas
+Lo mismo que yo amo
+Y somos hermanos en malas y en buenas`,
+  },
 ];

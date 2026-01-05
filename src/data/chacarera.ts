@@ -2018,6 +2018,73 @@ cuando estoy con los amigos
 SOL       LA7    RE
 nada seria mas justo
  FA#              SIm
-que una tormenta de vino`
-  }
+que una tormenta de vino`,
+  },
+  {
+    title: "La pucha con el hombre",
+    slug: "la-pucha-con-el-hombre",
+    author: "Cuti Carabajal",
+    letra: `
+MIm                      SI7         MIm
+El hombre nace y muere a veces sin vivir,
+                        SI7         MIm
+camina desde el niño al viejo sin gozar
+SOL                    RE7      SOL
+eso que él mismo le llama felicidad
+DO         LAm7       SI7          MIm
+y si la tiene aquí la va a buscar allá.
+
+
+LAm7     RE7
+Tropieza tantas veces
+SOL     DO
+con una misma piedra
+LAm7
+Fruta es que llega y pasa
+    SI7 MIm
+sin madurar.
+
+                       SI7         MIm
+Si tiene tira o quiere tener mucho más
+                       SI7        MIm
+Es un misterio y es de la vida la sal
+
+Tiene alma de guitarra
+encordada de estrellas
+y es una falta envido
+su corazón.
+
+ESTRIBILLO:
+
+Sólo se diferencia del reino animal
+porque es el hombre el único capaz de odiar
+Pero mientras el hombre
+se asombre, llore o ría
+será la fantasía que Dios creó.
+
+II
+
+Es una lágrima de niño y de Crespín,
+es monte denso, copla, vida y manantial
+y es muy capaz de dar la vida o de matar
+es luz y sombra, tierra arada y arenal.
+
+La pucha con el hombre
+querer ser tantas cosas
+y nunca es más que cuando
+tan solo es él.
+
+Es un camino que anda solo bajo el sol
+sendero trajinado por sueños de amor.
+Es un viejo legüero garroteado de changos
+con son de vino triste y de carnaval.
+
+ESTRIBILLO:
+
+Sólo se diferencia del reino animal
+porque es el hombre el único capaz de odiar
+Pero mientras el hombre
+se asombre, llore o ría
+será la fantasía que Dios creó.`,
+  },
 ];
