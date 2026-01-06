@@ -1229,4 +1229,98 @@ Y somos hermanos en malas y en buenas`,
     EL AMOR QUE TE OFRECIA EL TIEMPO LO ESTA MATANDO    
     `,
   },
+  {
+    title: "Viejo y Querido amigo",
+    slug: "viejo-y-querido-amigo",
+    author: "Ernesto Villavicencio",
+    letra: `
+    QUISIERA YO CANTARLE A UN AMIGO TAN SINCERO
+    Y CANTARLE UNA TONADA ES TODO LO QUE MÁS QUIERO
+    PORQUE SE QUE A VOS TE GUSTA LA COSTUMBRE DE MI CUYO
+    Y SALIR DE SERENATA PORQUE SOY AMIGO SUYO
+
+    QUISIERA YO CANTARLE CON TODA MI ALMA
+    POR ESO TE ESCRIBI ESTOS VERSOS EN TONADA
+    EN LAS BUENAS Y EN LAS MALAS TU ESTARAS CONMIGO
+    Y TE CANTO ESTA TONADA VIEJO Y QUERIDO AMIGO
+
+    A VECES TE RESIENTES PORQUE A VECES NO TE SIGO
+    PERO DEBES COMPRENDER QUE YO NUNCA TE OLVIDO
+    CUANDO SALGO A LA FARRA CON AMIGOS DE LA INFANCIA
+    Y TE DEJO ESTE PIMPOLLO CON UNA MEJOR FRAGANCIA
+
+    QUISIERA YO CANTARLE CON TODA MI ALMA
+    POR ESO TE ESCRIBI ESTOS VERSOS EN TONADA
+    EN LAS BUENAS Y EN LAS MALAS TU ESTARAS CONMIGO
+    Y TE CANTO ESTA TONADA VIEJO Y QUERIDO AMIGO
+
+        COGOLLO
+    HA LLEGADO EL MOMENTO PARA (DON AGUSTIN LOPEZ)
+    PORQUE USTED ES UN PADRE CRIOLLO SIEMPRE LO LLEVO PRESENTE
+    Y SUS HIJOS LOS RESPETAN PORQUE USTED SIEMPRE SE EXTRAÑA
+    UNA VOZ QUE SE RETUMBA SOLITO DE SUS ENTRAÑAS 
+
+    QUISIERA YO CANTARLE CON TODA MI ALMA
+    POR ESO TE ESCRIBI ESTOS VERSOS EN TONADA
+    EN LAS BUENAS Y EN LAS MALAS TU ESTARAS CONMIGO
+    Y TE CANTO ESTA TONADA VIEJO Y QUERIDO AMIGO`
+  },
+  {
+    title: "Tonadas y más tonadas",
+    slug: "tonadas-y-mas-tonadas",
+    author: "Jose Zabala",
+    letra: `
+Tonadas y mas tonadas,
+por siempre yo he de cantar
+Porque si son argentinas, 
+Me las quieren olvidar.
+ 
+San Luis, Mendoza y San Juan
+Son tres provincias cuyanas
+Que al pie de la cordillera, 
+A sus valientes cantaban.
+
+Estribillo
+Tonadas, cogollos, cuequitas con aros
+Gatitos alegres, bien intencionados
+Romanticos valses, sonoras guitarras
+Que se oiga el grito cuyano
+Desde los Andes al Plata.
+
+(II)
+Chacarera, zamba, al norte; 
+chamame es litoral
+El sur, la pampa, milonga; 
+se hermanan con mi cantar.
+
+Buenos aires su cielito,
+el tango expresion porteña
+Que se habran pronto mi cuyo,
+de par en par tus tranqueras.
+
+Estribillo
+Tonadas, cogollos, cuequitas con aros
+Gatitos alegres, bien intencionados
+Romanticos valses, sonoras guitarras
+Que se oiga el grito cuyano
+Desde los Andes al Plata.
+
+(III)
+Don (xxx) viva, 
+Le canto por ser mi amigo
+Tambien a usted ((xxx)) 
+Escuchen lo que les digo.
+
+No encuentro balanza justa, 
+La injusticia me rebela
+No veo en el mismo peso, 
+expresiones de mi tierra
+ 
+Estribillo
+Tonadas, cogollos, cuequitas con aros
+Gatitos alegres, bien intencionados
+Romanticos valses, sonoras guitarras
+Que se oiga el grito cuyano
+Desde los Andes al Plata.`
+  }
 ];
