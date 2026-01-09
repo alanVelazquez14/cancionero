@@ -911,5 +911,68 @@ Color de tus labios fue lapacho de flor morada
    las coplas que del cantor
    nacieran por un dolor`,
   },
-  
+  {
+    title: "Zamba para un bohemio guitarrero",
+    slug: "zamba-para-un-bohemio-guitarrero",
+    author: "Peteco Carabajal",
+    letra: `
+  Bm                 Em
+Ovillado por el vino
+A7                 D
+tu canto eriza la noche.
+F#                            D
+Y al escuadrón guitarrero tu voz
+B7                      Em
+con el lucero lo esconde.
+F#                            G
+Y al escuadrón guitarrero tu voz
+         F#              Bm
+con el lucero lo esconde.
+
+
+Bm                 Em
+Guitarrero enamorado
+A7                 D
+abrazao con la pobreza
+F#                            D
+mira del cielo llorando el ayer
+B7                      Em
+las estrellas con tristeza.
+F#                            G
+mira del cielo llorando el ayer
+          F#              Bm
+las estrellas con tristeza.
+
+
+ESTRIBILLO:
+A7                  D
+Solito como la urpila
+          D7        G
+Coquito Cáceres canta
+F#                            G
+canta penando las penas su voz      BIS
+         F#              Bm
+de su bohemia atormentada.
+
+
+Tu canto beben las calles
+De mi pueblo santiagueño
+cuando el silencio se hace soledad      BIS
+y la noche ata el sueño.
+
+Madurando carnavales
+tu guitarra moja el alba
+y en el remanso de tu corazón       BIS
+una chacarera baila.
+
+ESTRIBILLO
+A7                  D
+Solito como la urpila
+          D7        G
+Coquito Cáceres canta
+F#                            G
+canta penando las penas su voz      BIS
+         F#              Bm
+de su bohemia atormentada.`,
+  },
 ];
