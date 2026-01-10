@@ -3682,4 +3682,60 @@ porque el gusto está en la variedad
 solo sepan que por mi pago
 chacarereamos como el que más.`,
   },
+  {
+    title: "Chacarera del triste",
+    slug: "chacarera-del-triste",
+    author: "Los Chalchaleros",
+    letra: `
+    MI   SI7           MI
+Para que quiero vivir
+       LA        SOL
+con el corazón desecho
+     LA            SOL
+para que quiero la vida
+           SI7              MI
+después de lo que me has hecho.
+
+
+Yo te di mi corazón
+vos el tuyo me entregaste
+con engaños hacia el mío
+prenda, lo despedazaste.
+
+
+Ay! Porqué fuiste tan cruel
+si tu franquesa esperaba
+porque jugaste conmigo
+prenda, si te idolatraba.
+
+
+Yo del mundo me olvide
+desengaños y amarguras
+pero lo que vos me hiciste
+prenda, en mi alma perdura.
+
+
+Cantando me pasaré
+muy triste esta chacarera
+pueda ser de que me alegre
+en el instante en que muera.
+
+
+Seguí, guitarra, seguí
+seguí como yo llorando
+compañera hasta la muerte
+seguí mi alma consolando.
+
+
+No hay remedio ya lo se
+para qué voy a buscarlo
+tan desecha tengo el alma
+que inútil sería lograrlo.
+
+
+Seguí, guitarra, seguí
+prenda por lo que me hiciste
+rasgueando toda la noche
+la chacarera de un triste.`,
+  },
 ];
