@@ -3738,4 +3738,688 @@ prenda por lo que me hiciste
 rasgueando toda la noche
 la chacarera de un triste.`,
   },
+  {
+    title: "Añoranzas",
+    slug: "anoranzas",
+    author: "Los Manseros Santiagueños",
+    letra: `
+    MI7 LAm   MI7 LAm   MI7 LAm   MI7 LAm
+
+    C                              G7     C
+Cuando salí de Santiago todo el camino lloré
+     Am                         E7     Am
+lloré sin saber porqué pero yo les aseguro
+    F                              E7     Am
+que mi corazón es duro pero aquel día afloje.
+
+
+Dejé aquel suelo querido y el rancho donde nací
+donde tan feliz viví alegremente cantando
+en cambio vivo llorando igualito que el crespín.
+
+Los años ni las distancias jamás pudieron borrar
+de mi memoria apartar y hacer que te eche al olvido
+hay mi Santiago querido yo añoro tu quebrachal.
+
+Mañana cuando me muera  si alguien se apiada de mí
+llevenmé donde nací si quieren darme la gloria
+y toquen a mi memoria la doble que canto aquí.
+
+
+En mis horas de tristeza siempre me pongo a pensar
+como pueden olvidar  algunos de mis paisanos
+rancho, padre, madre, hermano con tanta facilidad.
+
+Santiagueño no ha de ser el que obre de esa manera
+despreciar la chacarera por otra danza importada
+eso es verla mancillada a nuestra raza campera.
+
+La otra noche a mis almohadas mojadas las encontré
+mas ignoro si soñé  o es que despierto lloraba
+y en lontananza miraba el rancho aquel que dejé.
+
+Tal vez en el campo santo  no haya un lugar para mí
+paisanos les vua' pedir que cuando llegue el momento
+tirenmé en el campo abierto pero allí donde nací.
+`,
+  },
+  {
+    title: "Desde Siempre y para Siempre",
+    slug: "desde-siempre-y-para-siempre",
+    author: "Los Manseros Santiagueños",
+    letra: `
+    LA
+Desde siempre y siempre,
+          MI
+contigo,estare
+        FA#m
+en las nubes y en las piedras
+          DO#m
+y al amanecer,
+     RE
+cada noche en tu ventana,
+ SIm      DO#
+alumbrándote.
+
+
+      LA
+Desde siempre y para siempre
+            MI
+mi vida tendrás,
+        FA#m
+como el árbol en la tierra
+             DO#m
+te quiero anidar,
+     RE
+para darte luz y sombra
+    SIm      DO#
+por donde te vas.
+
+
+       FA#m7
+Porque si no estás mañana
+            SIm
+no podré vivir,
+          FA#m7
+porque al alba se despiertan
+            SIm
+tus ojos en mi,
+      FA#m
+y con ellos miro el día,
+         DO#m
+tu nueva ciudad,
+     RE
+y aparese entre mis brazos
+SIm      DO#
+esa claridad.
+
+
+      LA
+Desde siempre y para siempre
+          MI
+en mi vivirás,
+          FA#m
+aunque el río de la muerte
+               DO#m
+nos venga a buscar
+    RE
+estaremos siempre juntos
+   SIm      DO#
+en la eternidad.
+
+
+       FA#m7
+Porque si no estás mañana
+           SIm
+no podré vivir,
+          FA#m7
+porque al alba se despiertan
+            SIm
+tus ojos en mi,
+      FA#m
+y con ellos miro el día,
+            DO#m
+tu nueva ciudad,
+     RE
+y aparese entre mis brazos
+  SIm    DO#
+esa claridad
+
+      LA
+Desde siempre y para siempre,
+      RE
+desde siempre y para siempre,
+      MI
+desde siempre y para siempre,
+            LA RE LA
+contigo estaré he he.`,
+  },
+  {
+    title: "No me abraces porque lloro",
+    slug: "no-me-abraces-porque-lloro",
+    author: "Los Rojas",
+    letra: `
+    G C D G C D G
+
+G
+Amigos que ya han llega'o
+C
+entre medio de tonadas
+D                      G
+señal que ya va a empezar
+              C      D   G
+la fiesta en Marca Borrada
+
+G C D G C D G
+
+Los changos se han de sentir
+hermanados con el grito
+de un criollo al amanecer
+en las barrancas del río
+
+G C D G C D G
+
+La copla en el corazón
+será una filosa espina
+y aquí les voy a cantar
+al llegar la despedida
+
+C
+Tocámelo en re mayor
+   D
+antes que me quede solo
+   G             C
+hermano si ya te vas
+           G         D   G
+no me abracés porque lloro
+
+G
+El pago sabe de amor
+C
+me repite la conciencia
+D                  G
+padre nuestro soñador
+          C         D   G
+santuario de mi querencia
+
+G C D G C D G
+
+Del Chaco Salteño soy
+y en las huellas del camino
+del coche y algarrobal
+se vestirá el canto mío
+
+G C D G C D G
+
+Yo me tengo que quedar
+verá que tristeza siento
+amigo si ya se va
+pa'l año venga de nuevo
+
+C
+Tocámelo en re mayor
+   D
+antes que me quede solo
+   G             C
+hermano si ya te vas
+           G         D   G
+no me abracés porque lloro`,
+  },
+  {
+    title: "Soy lo que canto",
+    slug: "soy-lo-que-canto",
+    author: "Lázaro Caballero",
+    letra: `
+    INTRODUCCION: SOL7-DO
+
+DO               FA
+Vengo del Chaco gualamba
+                    DO
+Donde el sol me vio crecer
+              LAm           SOL7  DO
+Acunao' en Chacareras, polcas y chámame
+
+Ando hoy pintando a mi tierra
+Sin apuros con la voz
+Las notas son los colores
+Que me presta el corazón
+
+No desespero ni lloro si de amor ando con sed
+Puedo calmarla cantando
+Cuando yo encuentre un querer
+
+ESTRIBILLO:
+
+FA                         FAm   DO
+Yo no vivo de apariencias, disimulando
+                  LAm
+Aquí estoy como me ven
+    SOL7     DO
+Soy lo que canto
+
+
+Una copla muy arisca
+Ando hoy queriendo entonar
+Tal vez la duerma el silencio
+Pa' que la pueda tirar
+
+Soy del norte con orgullo
+Pago de música y sol
+Busca un amigo mi canto
+Pa' dejarle el corazón
+
+Sobre la tierra en el campo
+Y he aprendido a caminar
+Junto a mi padre querido
+Que nunca voy a olvidar
+
+ESTRIBILO:
+FA                         FAm   DO
+Yo no vivo de apariencias, disimulando
+                  LAm
+Aquí estoy como me ven
+    SOL7     DO
+Soy lo que canto`,
+  },
+  {
+    title: "Francamente viejo",
+    slug: "francamente-viejo",
+    author: "Martín Paz",
+    letra: `
+    Intro: Am, G, F, E7
+
+Am.                Dm
+ojos que me vieron.
+E7.                Am
+Creciendo de sueños
+                       G
+Manos trabajando
+F.                   E7
+Hombre de silencio
+E7.                 F
+Así mi padre luchando
+E7                  Am
+Me abrió todo su templo
+
+Sos perfil de un tiempo
+Lleno de consuelo
+Me abriste las alas
+Y yo te agradezco
+Porque me diste una estrella
+Montada de consejos
+
+Quiero revelarte
+Todo lo que siento
+Eres luz y sombra
+Pan y vino eterno
+Eres mirada cansada
+De angustias y tormentos
+
+Am                    F
+Francamente Viejo
+G                    C
+Sin cesar te entrego
+                      A#
+Todo el sentimiento
+                      Am
+De mi canto nuevo
+Am.                    Dm
+Eres mi sangre dorada
+E7.                   Am
+Que cubre mi universo
+
+SEGUNDA
+
+Intro: Am, G, F, E7
+
+Am.             Dm
+quiero ser espejo
+E7.              Am
+De tus ojos tiernos
+                    G
+Quiero ser el ángel
+F.                     E7
+Que velan tus sueños
+E7.                   F
+Quiero llevarte por siempre
+E7.                   Am
+Aquí junto a mi pecho
+
+Padre sos palabra
+Grabada en mi mente
+Padre sos emblema
+Que vistes mis sienes
+Padre son letras doradas
+Que guardo muy ferviente
+
+Quiero revelarte
+Todo lo que siento
+Eres luz y sombra
+Pan y vino eterno
+Eres mirada cansada
+De angustias y tormentos
+
+Am                    F
+Francamente Viejo
+G                    C
+Sin cesar te entrego
+                      A#
+Todo el sentimiento
+                      Am
+De mi canto nuevo
+Am.                    Dm
+Eres mi sangre dorada
+E7.                   Am
+Que cubre mi universo`,
+  },
+  {
+    title: "La noche sin ti",
+    slug: "la-noche-sin-ti",
+    author: "Los Huayra",
+    letra: `
+    MI
+Vuelve a despertar la lluvia en mi
+DO#m                   SOL#m
+derramanado toda su raiz
+           LA
+sobre el papel
+
+vuelven a caer sobre la piel
+del que va esperando por nacer
+estas aqui
+
+
+FA#m                           SI
+Mientras tanto busco las palabras
+                      SOL#m
+que me cubran esta herida
+                      DO#m
+que me alejen mas de ti
+
+y la soledad me va creciendo
+con la niebla de este invierno
+que no puedo resisitir
+
+LA           LAm
+la noche sin ti
+
+
+La mañana se levanta ya
+no hay señales de que volveras
+no estas aqui
+solamente quiero comprender
+que tu ausencia vive en mi pared
+y sin querer
+
+
+como detener este vacio
+que me crece desde adentro
+que no me deja seguir
+como asimlar todos los huecos
+que aparecen em mi cama
+y se quedaran ahi
+LA          LAm
+se apaga la luz
+
+
+MI
+Y me siento solo con mi voz
+DO#m                  SOL#m
+no descubro como sucedio
+            LA
+perder tu amor
+MI
+todo lo que nunca mas vere
+DO#m                     SOL#m
+como se me anuda el corazon
+         LA
+como volver
+FA#m                   SI
+si tuviera la oportunidad
+                     SOL#m
+en aquel minuto reparar
+        DO#m
+de no caer
+FA#m                      SI
+si quedaran rastros a seguir
+                           SOL#m
+una huella tenue de ese abril
+         DO#m
+perdiendose
+         LA       LAm
+en la sombra del ayer.
+
+MI LA SI MI DO#m LA SI LA SI
+
+Y me siento solo con mi voz...
+
+MI DO#m SOL#m LA   MI
+uhhhhhhhhhhhhhhhhhhhhh`,
+  },
+  {
+    title: "Lindo adorno pa mi apero",
+    slug: "lindo-adorno-pa-mi-apero",
+    author: "Lázaro Caballero",
+    letra: `
+    Intro: Am C E7 Am (x2)
+
+Am.
+Toro mañero rosillo
+G.                C
+Por pasador guampa entera
+Dm
+Jamás cruzó la ralera
+                      Am
+Pa' pastiar en campo abierto
+  C                 Dm
+Y andaba en lo más espeso
+          E7           Am
+Bramando como una fiera.
+
+Intermedios:Am C E7 Am (x2)
+
+Am
+El hallarlo era presagio
+G.                 C
+De una desgracia cercana
+Dm
+Pué' tenía la mala mañana
+                  Am
+Como trompo daba vuelta
+   C                 Dm
+Y al flete en una carrera
+      E7.             Am
+Lo levantaba en las astas.
+
+Am
+Tenía la guampa manchada
+G.                   C
+Varios fletes en su haber
+Dm
+Nadie lo quería correr
+                    Am
+Ni el pillador más mentado
+   C                 Dm
+Volvió una tarde quebrau'
+      E7.               Am
+Y el bestia se fue otra vez.
+
+Estribillo 1:
+G.                  C
+Colgué la vida a los tientos
+E7.                   Am
+Ya era un duelo entre los dos
+   Dm
+A ese bravo y volvedor
+                  Am
+Voy a ceñirle mi trenza
+ C                 Dm
+Acabo con mi paciencia
+      E7.          Am
+Y orgullo de corredor.
+
+Intermedios:Am C E7 Am (x2)
+
+Am
+Mi frente un zaino frontino
+G                   C
+Veterano , buena rienda
+Dm
+Atrevido pa' la hacienda
+                   Am
+A más arisca más bueno
+C                 Dm
+Lo tape con el coleto
+E7                   Am
+Y me largue por la senda.
+
+Am
+Ya bramaba en la ralera
+G                       C
+Y me le fui contra el viento
+Dm
+Corrió un "norte" y ni le cuento
+                   Am
+El fue mi mejor aliado
+C                    Dm
+Lo encime con el caballo
+E7                     Am
+Y hay nomas le señi tiento.
+
+Am
+Pensé castrarlo pa' buey
+G                  C
+Pa' curar sus herejías
+Dm
+Pero al ver tanta porfia
+                       Am
+Las astas rayando el suelo
+C                  Dm
+Le enterre mi caronero
+E7                      Am
+Hasta el mango y de una ida.
+
+Estribillo 2:
+
+G                     C
+El cuero de aquel rosillo
+E7                    Am
+Lo guardo pa' mi recuerdo
+Dm
+Ocho brazadas, seis tientos
+                     Am
+Reliquia que es un primor
+C                   Dm
+Hoy el bravo y volvedor
+E7                     Am
+Anda de adorno en mi apero.`,
+  },
+  {
+    title: "Bien chaqueño soy",
+    slug: "bien-chaqueno-soy",
+    author: "Lázaro Caballero",
+    letra: `
+    Intro: SOL7 DO
+
+DO
+Es humilde mi rancho
+FA              DO
+Sombriao de mistol
+Bajo de un algarrobo
+SOL7         DO
+Atao un redomón
+
+Aqui cantan charatas
+Vigila un chajá
+Con agua de cañadas
+Me gusta matear
+
+Se meterme en el monte
+A MI gusto enlazar
+Y tirarme el coleto
+MI brazo temblar
+
+Estribillo:
+
+
+Es quebracho mi orgullo
+De estar donde estoy
+Como el pago no hay otro
+Bien chaqueño soy
+
+Al mal tiempo le canto
+Pa' que lamentar
+A la razon del pobre
+Quien la ha de escuchar
+
+Nunca dejo mi poncho
+Por donde yo voy
+Es amigo y testigo
+De como yo soy
+
+Perfuma el garabato
+Me hace recordar
+Amores en mi vida que no he de olvidar
+
+Estribillo:
+
+Es quebracho mi orgullo
+De estar donde estoy
+Como el pago no hay otro
+Bien chaqueño soy`,
+  },
+  {
+    title: "Bajo la sombra de un árbol",
+    slug: "bajo-la-sombra-de-un-arbol",
+    author: "Peteco Carabajal",
+    letra: `
+    INTRO: (MI7-LA) x 4
+
+  LA
+Bajo la sombra de un árbol
+           MI7       LA
+me hallaba casi dormido
+       FA#m
+que hermosa estaba la tarde
+los árboles eran trinos
+   MI7
+volaron mis sentimientos
+                    LA
+colgados en un suspiro.
+
+(SIGUE SIEMPRE IGUAL)
+
+INTER = INTRO
+
+De pronto llego un brisa
+que olía a viejos recuerdos
+estaba todo presente
+todo lo que yo mas quiero
+como si el tiempo se abriese
+dejando ver sus misterios.
+
+INTER
+
+No hay quien cante en esta tierra
+como los pájaros cantan
+son libres de darse al viento
+son libres de la palabra
+ser uno mas en el aire
+es lo que al hombre le espanta.
+
+
+DE ALGÚN LUGAR DE LA TARDE
+SALIÓ UNA VOZ QUE ME DIJO:
+ES BUENO ANDAR POR EL MUNDO,
+AMAR Y SUFRIR OLVIDOS,
+SABIENDO QUE AQUÍ LA VIDA
+Y LA MUERTE TIENEN SU SITIO.
+
+INTRO
+
+Del cielo colgó una nube
+pintada de oro encendido
+entonces los pensamientos
+cayeron encima mío
+cuando me volví hacia el cielo
+las nubes ya se habían ido.
+
+INTER
+
+No pierdas jamás la vista
+los tonos de la inocencia
+y al tiempo de los colores
+volvé cuantas veces puedas
+y a tu corazón bórdalo
+con hilos de transparencia.
+
+INTER
+
+No hay quien cante en esta tierra
+como los pájaros cantan
+son libres de darse al viento
+son libres de la palabra
+ser uno mas en el aire
+es lo que al hombre le espanta.`,
+  },
 ];
