@@ -3504,7 +3504,7 @@ No se lo puede olvidar.
 
 Chaqueño, chaqueño fue nuestro amor
 Si bien el tiempo paso
-Pero el recuerdo quedo.`
+Pero el recuerdo quedo.`,
   },
   {
     title: "Adiós que te vaya bien",
@@ -3590,6 +3590,96 @@ voy a desear.
 Adiós que te vaya muy bien
 que encuentres otro querer
 no lo vuelvas a perder
-nunca en la vida.`
-  }
+nunca en la vida.`,
+  },
+  {
+    title: "Del norte de Córdoba",
+    slug: "del-norte-de-cordoba",
+    author: "Los 4 de Córdoba",
+    letra: `
+         Em             G  
+En Santiago la chacarera
+
+     B7                       Em 
+tiene la gracia que en el mar tiene el pez
+
+     Em             G  
+pero escuchen esta que traigo
+          B7             Em 
+del fondo del Norte Cordobés.
+         E7            Am 
+Por Dean Funes la encontré
+         D7               G  
+entonada por un grillo cantor
+       Em             Am 
+y a lo lejos la acompañaba
+       B7                Em 
+repiqueteando un coche motor.
+
+En la casa de los Pacheco
+guitarra y bombos, palmas y mandolín
+pa' que sepan como se toca
+la chacarera por Ischilín.
+Y si quieren conocer
+algún musiquero como no hay más
+oiganló a Don Pedro Bergara
+que ni dormido pierde el compás.
+
+Me han contado que por los Pozos
+no le mezquinan al cantar y bailar
+por los pagos de Don Acosta
+hasta un quirquincho he visto tocar.
+Y en Tulumba que decir
+cuando Doña Dominga sale a bailar
+ya lo han dicho coplas mejores
+yo solo la quería recordar.
+
+ESTRIBILLO:
+
+        E7        Am 
+Y no es para comparar
+                  D7            G  
+porque el gusto está en la variedad
+     Em               Am 
+solo sepan que por mi pago
+       B7                 Em 
+chacarereamos como el que más.
+
+
+II
+
+Le aseguro que por mi norte
+el canto criollo no morirá jamás
+es un fuego que aunque lo apaguen
+una y mil veces renacerá.
+Salta, Santiago y Jujuy
+La Rioja, Catamarca y Tucumán
+abran cancha, suenen los bombos
+porque Sandonio va a zapatear.
+
+De Río Seco y Cruz del Eje
+por Sobremonte, Tulumba y Totoral
+zambas, gatos y chacareras
+desde que el día empieza a aclarar.
+Atahualpa conoció
+Cerro Colorado y ya aquerenció
+Indio Pachi que viva siempre
+tu puro canto de corazón.
+
+Por Jesús María las coplas
+las jineteadas, el vino y el amor
+en tu canto Abel Figueroa
+todo mi norte también cantó.
+Cuando el canto es de verdad
+no hay nada que lo pueda detener
+es la voz que nace del pueblo
+vibrante esencia de nuestro ser.
+
+ESTRIBILLO:
+
+Y no es para comparar
+porque el gusto está en la variedad
+solo sepan que por mi pago
+chacarereamos como el que más.`,
+  },
 ];
