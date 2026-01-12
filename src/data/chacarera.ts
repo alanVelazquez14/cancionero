@@ -4422,4 +4422,375 @@ son libres de la palabra
 ser uno mas en el aire
 es lo que al hombre le espanta.`,
   },
+  {
+    title: "Tio Tequila",
+    slug: "tio-tequila",
+    author: "Lázaro Caballero",
+    letra: `
+    Intro: Sol7; Do
+
+C .                  F 
+Suenan lindo los violines
+                    C 
+Allá en el chaco salteño
+                  G7  
+Por hay andará lejillo
+                C 
+Animando el entrevero.
+
+Cumpa churo para la farra
+Gaucha estirpe diamantera
+Se hace el arisco cuando baila
+Gato, zamba y chacarera.
+
+De su arte y su bohemia
+La chinita se enamoran
+Entre resto y pañuelos
+Unas rien y otras lloran.
+
+Estribillo:
+Han llegado los amigo
+La fiesta se a puesto que arde
+Meta meta tio tequila
+No le afloje sapatiale.
+
+De misión la paz de chango
+Aprendió a tocar guitarra
+Y anduvo por la barranca
+Alargando madrugadas.
+
+Por eso pago del chaco
+Eligidio tiene fama
+Cada tantosabe andar
+Tunantiando para la banda.
+
+De argentina al paraguay
+De Bolivia para salta
+Sapatiando el tío tequila
+Polvo y gritos levanta.
+
+Estribillo:
+Han llegado los amigo
+La fiesta se a puesto que arde
+Meta meta tío tequila
+No le afloje sapatiale.`,
+  },
+  {
+    title: "Tu inocencia",
+    slug: "tu-inocencia",
+    author: "Lázaro Caballero",
+    letra: `
+    D E A F#m - D E A A
+
+
+         A                                              E
+Nunca pensé que yo te iba a querer como te estoy queriendo
+         D                E                 A
+Nunca te vi y tu estabas ahí esperando mis besos
+          A                                         E
+Nunca espere encontrar otro amor, sincero que me quiera
+           D                 E                    A   E    A
+Llegaste a mi, curaste mi dolor, me alejaste de penas corazón
+
+       D             E
+Tu inocencia me enamoro
+      A              F#m
+y llegaste a mi corazón,
+       D                E
+del silencio nació el amor
+           A    A7
+entre los dos.
+
+        D               E
+Que tus ojos no lloren mas
+       A     F#m
+ni una lagrima,
+      D         E
+te prometo sonreír
+      A
+a mi lado.
+
+D E A F#m - D E A A
+
+       D             E
+Tu inocencia me enamoro
+      A              F#m
+y llegaste a mi corazón,
+       D                E
+del silencio nació el amor
+           A    A7
+entre los dos.
+
+        D               E
+Que tus ojos no lloren mas
+       A     F#m
+ni una lagrima,
+      D         E
+te prometo sonreír
+      A
+a mi lado.`,
+  },
+  {
+    title: "Dejando Huellas",
+    slug: "dejando-huellas",
+    author: "Lucio Rojas",
+    letra: `
+    INTRO:MI  LA  MI  LA  MI  LA
+
+
+LA        RE
+Si me preguntan de ande soy
+                      LA
+Es por mi modo de cantar
+             RE            LA
+Traigo el relincho de un bagual
+          MI             LA
+Pariente soy del cardenal
+LA         RE
+Llevo mi chaco a donde voy
+                        LA
+De las plazuelas soy cardón
+           RE         LA
+Del rio bermejo bobadal
+           MI           LA
+Soy como iguana pal calor
+LA          RE
+Para pialar un corazón
+                          LA
+Cargo mis coplas en el morral
+            RE           LA
+Son como miel pa la ocasión
+            MI           LA
+Si alguien sacude mi panal
+
+ESTRIBILLO:
+LA          RE
+montado en versos mi sentir
+                      LA
+Entreveraos con el tierral
+           RE         LA
+Vengo afirmando mi raiz
+          MI          LA
+Dejando huellas al andar
+LA         RE
+En las sequias soy tenaz
+LA          RE
+Tengo una mula pa baldear
+                      LA
+Y las abejas que al sumbar
+        RE         LA
+Musicalizan mi pesar
+         MI           LA
+Tiene perfume a montaraz
+LA           RE
+El canto arisco de mi voz
+LA          RE
+Gusto al arrope del chañar
+                      LA
+Dulce mangar como el mistol
+           RE          LA
+De las entrañas del wichi
+          MI           LA
+Nace mi canto soñador
+ LA              RE
+Del niño criollo que hay en mi
+LA              RE
+Mi corazon se hace cancion
+
+ESTRIBILLO:
+LA          RE
+montado en versos mi sentir
+                      LA
+Entreveraos con el tierral
+           RE         LA
+Vengo afirmando mi raiz
+          MI          LA
+Dejando huellas al andar`,
+  },
+  {
+    title: "Salpicando Tradiciones",
+    slug: "salpicando-tradiciones",
+    author: "Lázaro Caballero",
+    letra: `
+     A
+Entre pájaros del monte
+   D                 A
+Y escoltado por cordones
+  D                 A
+Voy andando los caminos
+    E7              A
+Guellando las tradiciones
+
+  A
+Sigo andando mi destino
+   D               A
+De cantor y guitarrero
+  D                A
+Despuntado madrugadas
+      E7           A
+Voy enyuntado al lucero
+
+  A
+Mi caballo se alborota
+  D                 A
+Y se afirma en el galope
+   D                    A
+Cuando al alba yo lo encillo
+   E7               A
+Encoletao pa los mentes
+
+ A
+Si me toca una corrida
+   D                 A
+Por costumbre me percirno
+   D              A
+Mi caballo pide rienda
+       E7               A
+Ni bien me afirmó al estribo
+
+  A
+Cuando bailo con espuelas
+    D                A
+Voy chayando los piguelos
+   D               A
+Con la rodaja de punta
+    E7                A
+Pinto mi nombre en el suelo
+
+   A
+Cada vez que voy al pueblo
+    D            A
+Also bota y sombrero
+   D               A
+Y el trato con la china
+    E7              A
+Yo Siempre soy caballero
+
+  A
+Me gusta amansar un potro
+   D               A
+Sacarlo de buenas ancas
+   D             A
+Pa volver acompañado
+  E7            A
+Si el amor se desata
+
+  A
+Si me toca una corrida
+  D                  A
+Por costumbre me percigno
+   D              A
+Mi caballo pide rienda
+   E7                   A
+Ni bien me afirmó al estribo`,
+  },
+  {
+    title: "Argentino y Formoseño",
+    slug: "argentino-y-formoseno",
+    author: "Lázaro Caballero",
+    letra: `
+    G         D7          G
+Soy sapucay de la tierra
+      Em         Am
+Moreno como mi madre
+C                  G
+Formoseño y caballero       ]BIS
+          C      (D7)   G
+Llevo mi canto en la sangre ]
+
+
+De changuito he conocido
+El corral y los potreros
+Por eso afirmó las coplas
+Del oeste formoseño
+
+ESTRIBILLO
+
+     Em
+Que lindo cantar lo nuestro
+     C              G
+Con coraje voy diciendo
+   Am                    G
+Argentino hasta las ñaschas
+C             D7 G
+Y de yapa formoseño
+C                        G
+Argentino hasta las ñaschas
+     C      (D7) G
+Y de yapa formoseño
+
+
+2DA
+
+Copleando por medio el monte
+Andando por las picadas
+Llegue al bañado de la estrella ]BIS
+Que mi tata me contaba          ]
+
+Guitarra bombo y violín
+Mi gargante y el sombrero
+Con barbijo y retobau
+Yo me siento un caballero
+
+ESTRIBILLO
+
+Que lindo cantar lo nuestro
+Con coraje voy diciendo
+Argentino hasta las ñaschas
+Y de yapa formoseño .`,
+  },
+  {
+    title: "Si te vuelvo a ver",
+    slug: "si-te-vuelvo-a-ver",
+    author: "Erick Claros",
+    letra: `
+    Introduccion: SolM, ReM, SolM, ReM, SolM
+
+SOL M           DO                SOL 
+El monte se alegra cuando va a llover
+             RE                SOL 
+Así yo me alegro si te vuelvo a ver
+
+Intro: SolM, ReM, SolM, ReM, SolM
+SOL             DO                SOL 
+Yo también me alegro si te vuelvo a ver
+           RE               SOL 
+pero duele verte con otro querer
+
+Intro: SolM, ReM, SolM, ReM, SolM
+SOL         DO             SOL 
+Como duele verte con otro querer
+           RE                 SOL 
+mejor yo me alejo si te vuelvo a ver
+
+SOL         DO             SOL 
+EL MONTE SE ALEGRA CUANDO VA LLOVER
+           RE                 SOL 
+ASÍ YO ME ALEGRO SI TE VUELVO A VER
+
+Introducción: SolM, ReM, SolM, ReM, SolM
+SOL          DO              SOL 
+Florcita chaqueña de hermoso color
+             RE               SOL 
+toditas tus espinas me causan dolor
+
+Intro: SolM, ReM, SolM, ReM, SolM
+SOL              DO             SOL 
+me has cerrado la simbra de tu corazón
+           RE                 SOL 
+galopo en la senda errada de amor
+
+Intro: SolM, ReM, SolM, ReM, SolM
+SOL           DO                SOL 
+en cuestión de amores también se perder
+             RE                 SOL 
+pero en tus mentiras no vuelvo a caer
+
+
+SOL         DO             SOL 
+EL MONTE SE ALEGRA CUANDO VA LLOVER
+           RE                 SOL 
+ASÍ YO ME ALEGRO SI TE VUELVO A VER
+`,
+  },
 ];
