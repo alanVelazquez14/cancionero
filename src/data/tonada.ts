@@ -279,12 +279,12 @@ Por eso, arrepentido compadre, arrepentido.
 Quisiera que este día nos devuelva los perdidos"`,
   },
   {
-    title: "Amigo en todo momento",
+    title: "Amigo en todo momento (sin acordes)",
     slug: "amigo-en-todo-momento",
     author: "Algarroba.com",
     letra: `
-    El arroyo manso de mi corazón
-Arrastra estas rimas, que traigo hacia vos
+El arroyo manso de mi corazón
+Arrastra estas rimas, que hoy traigo hacia vos
 Porque sos tonada que corre en mis venas
 Que enriquece el alma y alivia mis penas
 
@@ -301,8 +301,34 @@ Pero también tiene cauce
 Hoy tengo la dicha de poder cantarte
 Y poder brindarte lo que hay en mi ser
 
-Un abrazo puro, un cogollo en los labios
-Y el brindis cuyano que nos vio crecer`,
+El abrazo puro, un cogollo en los labios
+Y el brindis cuyano que nos vio crecer
+
+Porque a vos te llevo como un estandarte
+y soy tu familia sin dejas llegarme
+
+Si te encuentras triste y solo
+Nunca dudes en llamarme
+Si te falta el corazón
+El mío tal vez te alcance
+Que si bien es cierto que mi arroyo es manso
+Pero también tiene cauce
+
+    COGOLLO
+Contento y dichoso me siento mi amigo
+creo haber cumplido con mi corazon
+quiero que mi arroyo hoy se vuelva vino
+para llenarme los vasos y brindar con vos
+Yayo Bastia cantando te decimos 
+que en todo momento somos tus amigos
+
+Si te encuentras triste y solo
+Nunca dudes en llamarme
+Si te falta el corazón
+El mío tal vez te alcance
+Que si bien es cierto que mi arroyo es manso
+Pero también tiene cauce
+`,
   },
   {
     title: "No sé que diablos me pasa",
@@ -1478,6 +1504,6 @@ SI SUFRE ALGUNA PENA,
 NO DEJE QUE SE MUERA
 SU POBRE CORAZÓN
 DEDÍQUELE UN SUSPIRO QUE SE LO LLEVE EL VIENTO
-EL BESARA LOS LABIOS DE AQUEL ETERNO AMOR`
-  }
+EL BESARA LOS LABIOS DE AQUEL ETERNO AMOR`,
+  },
 ];
