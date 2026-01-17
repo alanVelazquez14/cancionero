@@ -4793,4 +4793,77 @@ EL MONTE SE ALEGRA CUANDO VA LLOVER
 ASÍ YO ME ALEGRO SI TE VUELVO A VER
 `,
   },
+  {
+    title: "Para cantar he nacido",
+    slug: "para-cantar-he-nacido",
+    author: "Mercedes Sosa",
+    letra: `
+    Intro: Em Bm F#7 Bm ..
+
+  Bm                                B7        Em
+Para cantar he nacido soy copla que el viento lleva
+G                                   Em        F#7
+a veces canto en el arbol que se deshoja de pena
+ Em              D              F#7       Bm
+a veces bebo del fuego palabras de primavera
+
+Em Bm F#7 Bm
+
+   Bm                              B7            Em
+Mi sangre canta por dentro como la lluvia por fuera
+G                                 Em            F#7
+la noche canta y convierte sus pájaros en estrellas
+  Em                 D            F#7        Bm
+pero cuando canta el pueblo musicaliza mis venas
+
+Em Bm F#7 Bm
+
+   Bm                            B7          Em
+Yo nunca miro a la rosa por su color de quimera
+G                                    Em            F#7
+la miro por que ella tiene la sangre de los que sueñan
+    Em                  D               F#7             Bm
+por que en sus gajos florecen las manos del que las siembra
+
+      Bm                            B7           Em
+Si el canto no se levanta como la hoguera del fuego
+G                                 Em             F#7
+si no libera las penas de los que estan en la tierra
+   Em             D               F#7       Bm
+de nada sirve que suene la voz de la chacarera
+
+Em Bm F#7 Bm
+
+ Bm                             B7          Em
+Asi como canta el rio cuando la noche lo ciega
+G                              Em          F#7
+y sin mirar su camino sigue su rumbo de piedra
+   Em                  D             F#7          Bm
+yo les canto a los que vienen caminando por la tierra
+
+Em Bm F#7 Bm
+
+   Bm                               B7          Em
+Mi copla es azul estrella y una guitarra encendida
+G                               Em         F#7
+en su corazón de pueblo la vida sufre y agita
+    Em              D             F#7          Bm
+con el perfil de su bombo las esperanzas marchita
+
+Em Bm F#7 Bm
+
+    Bm                              B7         Em
+Por eso canto a las cosas que me va dando la vida
+G                                   Em         F#7
+a los changuitos de barro hondeando lunas perdidas
+   Em              D                 F#7         Bm
+al tallo con sus espinas y al hombre con sus heridas
+
+      Bm                            B7           Em
+Si el canto no se levanta como la hoguera del fuego
+G                                 Em              F#7
+si no libera las penas de los que estan en la tierra
+   Em             D               F#7       Bm
+de nada sirve que suene la voz de la chacarera.`,
+  },
 ];
