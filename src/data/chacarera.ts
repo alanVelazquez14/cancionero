@@ -4685,61 +4685,6 @@ Mi caballo pide rienda
 Ni bien me afirmó al estribo`,
   },
   {
-    title: "Argentino y Formoseño",
-    slug: "argentino-y-formoseno",
-    author: "Lázaro Caballero",
-    letra: `
-    G         D7          G
-Soy sapucay de la tierra
-      Em         Am
-Moreno como mi madre
-C                  G
-Formoseño y caballero       ]BIS
-          C      (D7)   G
-Llevo mi canto en la sangre ]
-
-
-De changuito he conocido
-El corral y los potreros
-Por eso afirmó las coplas
-Del oeste formoseño
-
-ESTRIBILLO
-
-     Em
-Que lindo cantar lo nuestro
-     C              G
-Con coraje voy diciendo
-   Am                    G
-Argentino hasta las ñaschas
-C             D7 G
-Y de yapa formoseño
-C                        G
-Argentino hasta las ñaschas
-     C      (D7) G
-Y de yapa formoseño
-
-
-2DA
-
-Copleando por medio el monte
-Andando por las picadas
-Llegue al bañado de la estrella ]BIS
-Que mi tata me contaba          ]
-
-Guitarra bombo y violín
-Mi gargante y el sombrero
-Con barbijo y retobau
-Yo me siento un caballero
-
-ESTRIBILLO
-
-Que lindo cantar lo nuestro
-Con coraje voy diciendo
-Argentino hasta las ñaschas
-Y de yapa formoseño .`,
-  },
-  {
     title: "Si te vuelvo a ver",
     slug: "si-te-vuelvo-a-ver",
     author: "Erick Claros",

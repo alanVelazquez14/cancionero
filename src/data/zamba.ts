@@ -975,4 +975,234 @@ canta penando las penas su voz      BIS
          F#              Bm
 de su bohemia atormentada.`,
   },
+  {
+    title: "Argentino y Formoseño",
+    slug: "argentino-y-formoseno",
+    author: "Lázaro Caballero",
+    letra: `
+    G         D7          G
+Soy sapucay de la tierra
+      Em         Am
+Moreno como mi madre
+C                  G
+Formoseño y caballero       ]BIS
+          C      (D7)   G
+Llevo mi canto en la sangre ]
+
+
+De changuito he conocido
+El corral y los potreros
+Por eso afirmó las coplas
+Del oeste formoseño
+
+ESTRIBILLO
+
+     Em
+Que lindo cantar lo nuestro
+     C              G
+Con coraje voy diciendo
+   Am                    G
+Argentino hasta las ñaschas
+C             D7 G
+Y de yapa formoseño
+C                        G
+Argentino hasta las ñaschas
+     C      (D7) G
+Y de yapa formoseño
+
+
+2DA
+
+Copleando por medio el monte
+Andando por las picadas
+Llegue al bañado de la estrella ]BIS
+Que mi tata me contaba          ]
+
+Guitarra bombo y violín
+Mi gargante y el sombrero
+Con barbijo y retobau
+Yo me siento un caballero
+
+ESTRIBILLO
+
+Que lindo cantar lo nuestro
+Con coraje voy diciendo
+Argentino hasta las ñaschas
+Y de yapa formoseño .`,
+  },
+  {
+    title: "La cerrillana",
+    slug: "la-cerrillana",
+    author: "Los Chalchaleros",
+    letra: `
+    Am        E7 Am
+Con la pollera yuta
+            E7            Am  A
+Las trenzas largas te vi pasar
+Dm                *Am(5to)
+Y ahí nomás a mi zaino
+*G(3er) *F    *E7          Am  A
+En el guarda patio lo hice rayar
+Dm                *Am(5to)
+Y ahí nomás a mi zaino
+*G(3er) *F    *E7          Am
+En el guarda patio lo hice rayar
+
+Desmonté del caballo
+Me puse cerca pa' mosquetear
+Con el alma en un hilo
+Mi negra linda, te vi bailar
+Con el alma en un hilo
+Minegra linda, te vi bailar
+
+Am       A       Dm
+Como olvidarte Cerrillos
+           G7           C
+Si por tu culpa tengo mujer
+Dm       *Am(5to) *G(3er) *F *E7         Am
+Morena cerrillana con alma y vida te cantaré
+Dm           *Am(5to) *G(3er) *F  *E7          Am
+Todos los carnavales, para Cerrillo te llevaré
+
+Intermedio instrumental igual que la intro
+Dm - *Am(5to) - *G(3er) - *F - E7 - Am ]x2
+
+¡Adentro!
+Luego siguieron zambas
+Bailamos juntos sin descansar
+Entre medio 'e los cuetes
+Y serpentinas del carnaval
+Entre medio 'e los cuetes
+Y serpentinas del carnaval
+
+Miércoles de ceniza
+Enharinados nos vio pasar
+Y en ancas de mi zaino
+Luego a mi rancho fuimos a dar
+Y en ancas de mi zaino
+Luego a mi rancho fuimos a dar
+Como olvidarte cerrillos
+Si por tu culpa tengo mujer...`,
+  },
+  {
+    title: "Balderrama",
+    slug: "balderrama",
+    author: "Mercedes Sosa",
+    letra: `
+      MIm              RE
+A)Orillitas del canal
+   RE7     La7/Si    SOL  SI7
+  cuando llega la mañana
+  MIm                 FA#7
+  sale cantando la noche
+       SI7           MIm RE
+  desde lo del balderrama
+  SOL       LA    SOL
+  sale cantando la noche
+  LA    SOL       SI7      MIm  SI7
+  desde lo del balderrama
+
+A)Adentro puro temblar
+  el bombo con la baguala
+  y se alborota quemado
+  dele chispear la guitarra
+
+  MIm       LA
+B)Lucero solito
+  RE7        SOL  SI7
+  brote del alma
+  MIm            FA#7
+  Donde iremos a parar
+  SI7             MIm
+  si se apaga balderrama
+
+Introducción
+
+A)Si uno se pone a cantar
+  un cochero lo acompaña
+  y en cada vaso de vino
+  tiembla el lucero del alba
+
+A)Zamba del amanecer
+  arrullo de balderrama
+  llora por la medianoche
+  canta por la madrugada
+
+B)B)Lucero solito
+  brote del alma
+  Donde iremos a parar
+  si se apaga balderrama`,
+  },
+  {
+    title: "Zamba de mi esperanza",
+    slug: "zamba-de-mi-esperanza",
+    author: "Los Chalchaleros",
+    letra: `
+    PRIMERA
+
+RE
+Zamba de mi esperanza,
+               MI7 LA7
+amanecida como un querer,
+SOL                RE
+sueños, sueños del alma         |
+            LA7             RE  | BIS
+que a veces mueren sin florecer |
+
+
+RE
+Zamba a ti te canto,
+                    MI7  LA7
+porque tu canto derrama amor,
+  SOL           RE
+caricia de tu pañuelo,        |
+            LA7           RE  | BIS
+que va envolviendo mi corazón |
+
+
+ESTRIBILLO
+
+  RE              LA7
+Estrella tú que miraste,
+                         RE
+tú que escuchaste mi padecer,
+  SOL             RE
+estrella deja que cante,   |
+         LA7            RE | BIS
+deja que quiera como yo se |
+
+
+SEGUNDA
+
+   RE
+El tiempo que va pasando,
+                 MI7    LA7
+como la vida, no vuelve más,
+   SOL            RE
+el tiempo me va matando, |
+       LA7          RE   | BIS
+y tu cariño será, será   |
+
+
+   RE
+Hundido en el horizonte,
+                     MI7    LA7
+soy polvarera que al viento va,
+SOL            RE
+zamba ya no me dejes,       |
+          LA7           RE  | BIS
+yo sin tu canto no vivo más |
+
+
+ESTRIBILLO
+
+  RE              LA7
+Estrella tú que miraste,
+                         RE
+tú que escuchaste mi padecer,
+  SOL             RE
+estrella deja que cante,   |
+         LA7            RE | BIS
+deja que quiera como yo se |`,
+  },
 ];
