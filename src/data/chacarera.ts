@@ -4811,4 +4811,131 @@ si no libera las penas de los que estan en la tierra
    Em             D               F#7       Bm
 de nada sirve que suene la voz de la chacarera.`,
   },
+  {
+    title: "Hermano kakuy",
+    slug: "hermano-kakuy",
+    author: "Los Carabajal",
+    letra: `
+    Tono: Am
+
+Se toca con ritmo de chacarera
+Intro:Am -C -E7 -Am -C -E7 -Am -(G  -F -E7 )
+E|------------|
+                                 [[[[[[[[[[
+E7 
+Cuenta la gente allá en el pago,
+       C       E7          Am 
+Lo sucedido entre dos hermanos.
+
+Introducción Am -C -E7 -Am  x2
+
+E7 
+Cuando el volvía de la jornada,
+       C       E7           Am 
+Agua y comida jamás encontraba.
+
+Introducción Am -C -E7 -Am  x2
+
+E7 
+Cansado un día de soportarla,
+            C        E7       Am 
+La llevo al monte para castigarla.
+E7 
+Con triste grito busca a su hermano,
+         C       E7       Am 
+Kakuy se llama y vive penando.
+
+E|-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_|
+
+Introduccion Am -C -E7 -Am  x2
+
+E7 
+Sobre de un árbol ella esperaba,
+            C         E7         Am 
+Mientras el mozo de allí se alejaba.
+
+Introducción Am -C -E7 -Am  x2
+
+E7 
+A su reclamo lo llevo el viento,
+           C        E7            Am 
+Y en su garganta quejumbre y lamento.
+
+Introducción Am -C -E7 -Am  x2
+
+E7 
+De esta leyenda no hay que olvidarse,
+           C         E7          Am 
+Que los hermanos no dejen de amarse.
+
+E7 
+Con triste grito busca a su hermano,
+         C       E7        Am 
+Kakuy se llama y vive penando.`,
+  },
+  {
+    title: "Lagrimas de amor",
+    slug: "lagrimas-de-amor",
+    author: "Los Carabajal",
+    letra: `
+    Tom: Dm
+[Intro] B7 -Em
+       G                      D7           G  G7
+Que fatalidad perdi su amor en navidad
+C                   D7        G
+Justo cuando todos alegres  estan
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+G                      D7           G  G7
+Lagrimas de amor se fueron por el ventanal
+C                   D7        G
+Su figura hermosa se achica y se va
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+G                      D7           G  G7
+No se si podra mi corazón volver a amar
+C                   D7        G
+Me duro muy poco la felicidad
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+
+Estribillo
+G                      D7           G  G7
+Diosito te pido que me la hagas regresar
+C                   D7        G
+Es toda mi vida y mi felicidad
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+G                      D7           G  G7
+Quiero regresar a la raiz y su bondad
+C                   D7        G
+A ver si mi madre me puede ayudar
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+G                      D7           G  G7
+Por primera vez senti el amor su inmensidad
+C                   D7        G
+Me enredo en su encanto y se fue sin dudar
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+G                      D7           G  G7
+Que dificil es sin su querer que voy a hacer
+C                   D7        G
+Seguire esperando hasta el amanecer
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar
+
+G                      D7           G  G7
+Diosito te pido que me la hagas regresar
+C                   D7        G
+Es toda mi vida y mi felicidad
+B7         Em                 B7        Em
+Hay cuanto dolor por su amor tuve que llorar`,
+  },
 ];
